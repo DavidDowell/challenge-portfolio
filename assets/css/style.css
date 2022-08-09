@@ -218,7 +218,11 @@ footer {
     }
 
     .hero {
-        background-position: 50%;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        background-attachment: fixed;
+        background-position: 80%;
     }
 
     .nav {
