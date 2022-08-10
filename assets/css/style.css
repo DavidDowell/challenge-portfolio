@@ -217,16 +217,15 @@ footer {
         padding: 0;
     }
 
-    .hero {
-        background-size: cover;
-        background-position: center;
-        display: flex;
-        background-attachment: fixed;
-        background-position: 80%;
+    header ul li a {
+        justify-content: space-around;
     }
 
     .nav {
-        padding-top: 12px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 5px;
     }
 
     .align {
