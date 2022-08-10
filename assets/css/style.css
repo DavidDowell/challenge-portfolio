@@ -89,7 +89,9 @@ span {
 .hero h1 {
     color: whitesmoke;
     display: flex;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px #C0F2C1;
+    padding: 20px;
+    font-size: 70px;
 }
 
 .about-me {
