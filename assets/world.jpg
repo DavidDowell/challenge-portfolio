@@ -1,0 +1,1039 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+    <!-- start:global -->
+    <meta charset="UTF-8" />
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><![endif]-->
+    <!-- end:global -->
+
+    <!-- start:responsive web design -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- end:responsive web design -->
+
+    <link rel="pingback" href="https://www.goodtechguide.com/xmlrpc.php" />
+
+    <link rel="icon" type="image/png" href="https://www.goodtechguide.com/wp-content/uploads/2021/03/favicon.jpg"><link rel="apple-touch-icon" href="https://www.goodtechguide.com/wp-content/uploads/2021/03/gtg-logo-500x500-1.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.goodtechguide.com/wp-content/uploads/2021/03/gtg-logo-500x500-1.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.goodtechguide.com/wp-content/uploads/2021/03/gtg-logo-500x500-1.png"><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.goodtechguide.com/wp-content/uploads/2021/03/gtg-logo-500x500-1.png">
+    <!-- start:wp_head -->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>What is Green Technology in 2022? Greentech, Climate Tech &amp; Cleantech</title>
+	<meta name="description" content="What is Green Technology in 2022? Here we offer a Complete Guide to Greentech - Climate Tech, Cleantech and everything in between." />
+	<link rel="canonical" href="https://www.goodtechguide.com/what-is-green-technology/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="What is Green Technology in 2022? Greentech, Climate Tech &amp; Cleantech" />
+	<meta property="og:description" content="What is Green Technology in 2022? Here we offer a Complete Guide to Greentech - Climate Tech, Cleantech and everything in between." />
+	<meta property="og:url" content="https://www.goodtechguide.com/what-is-green-technology/" />
+	<meta property="og:site_name" content="Good Tech Guide" />
+	<meta property="article:published_time" content="2022-01-30T10:02:55+00:00" />
+	<meta property="article:modified_time" content="2022-01-30T11:08:20+00:00" />
+	<meta property="og:image" content="https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="533" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Manager" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Manager" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="19 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.goodtechguide.com/what-is-green-technology/","url":"https://www.goodtechguide.com/what-is-green-technology/","name":"What is Green Technology in 2022? Greentech, Climate Tech & Cleantech","isPartOf":{"@id":"https://www.goodtechguide.com/#website"},"primaryImageOfPage":{"@id":"https://www.goodtechguide.com/what-is-green-technology/#primaryimage"},"image":{"@id":"https://www.goodtechguide.com/what-is-green-technology/#primaryimage"},"thumbnailUrl":"https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png","datePublished":"2022-01-30T10:02:55+00:00","dateModified":"2022-01-30T11:08:20+00:00","author":{"@id":"https://www.goodtechguide.com/#/schema/person/b55af6670276f75b3babd368ccc00540"},"description":"What is Green Technology in 2022? Here we offer a Complete Guide to Greentech - Climate Tech, Cleantech and everything in between.","breadcrumb":{"@id":"https://www.goodtechguide.com/what-is-green-technology/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.goodtechguide.com/what-is-green-technology/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.goodtechguide.com/what-is-green-technology/#primaryimage","url":"https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png","contentUrl":"https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png","width":800,"height":533,"caption":"Greentech guide - climate tech and cleantech"},{"@type":"BreadcrumbList","@id":"https://www.goodtechguide.com/what-is-green-technology/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.goodtechguide.com/"},{"@type":"ListItem","position":2,"name":"What is Green Technology in 2022? The Greentech, Climate Tech &#038; Cleantech Guide"}]},{"@type":"WebSite","@id":"https://www.goodtechguide.com/#website","url":"https://www.goodtechguide.com/","name":"Good Tech Guide","description":"Companies, Solutions, News &amp; Insights","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.goodtechguide.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.goodtechguide.com/#/schema/person/b55af6670276f75b3babd368ccc00540","name":"Manager","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.goodtechguide.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/2bf181d16313c40279e74e182cd2277a?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/2bf181d16313c40279e74e182cd2277a?s=96&d=mm&r=g","caption":"Manager"},"url":"https://www.goodtechguide.com/author/Manager/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Good Tech Guide &raquo; Feed" href="https://www.goodtechguide.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Good Tech Guide &raquo; Comments Feed" href="https://www.goodtechguide.com/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-108278436-1"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.7.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-108278436-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if ( mi_track_user ) {
+					function __gtagDataLayer() {
+						dataLayer.push( arguments );
+					}
+
+					function __gtagTracker( type, name, parameters ) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply( null, arguments );
+							return;
+						}
+
+						if ( type === 'event' ) {
+							
+															parameters.send_to = monsterinsights_frontend.ua;
+								__gtagDataLayer( type, name, parameters );
+													} else {
+							__gtagDataLayer.apply( null, arguments );
+						}
+					}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+											} );
+															__gtagTracker( 'config', 'UA-108278436-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;											(function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+																				if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						})();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.goodtechguide.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='cattopage_wud_site_style-css'  href='https://www.goodtechguide.com/wp-content/plugins/category-to-pages-wud/css/category-to-pages-wud.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cattopage_wud_img_style-css'  href='https://www.goodtechguide.com/wp-content/plugins/category-to-pages-wud/css/jquery.ctp_wud.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.goodtechguide.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style id='extendify-gutenberg-patterns-and-templates-utilities-inline-css' type='text/css'>
+.ext-absolute{position:absolute!important}.ext-relative{position:relative!important}.ext-top-base{top:var(--wp--style--block-gap,1.75rem)!important}.ext-top-lg{top:var(--extendify--spacing--large,3rem)!important}.ext--top-base{top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--top-lg{top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-right-base{right:var(--wp--style--block-gap,1.75rem)!important}.ext-right-lg{right:var(--extendify--spacing--large,3rem)!important}.ext--right-base{right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--right-lg{right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-bottom-base{bottom:var(--wp--style--block-gap,1.75rem)!important}.ext-bottom-lg{bottom:var(--extendify--spacing--large,3rem)!important}.ext--bottom-base{bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--bottom-lg{bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-left-base{left:var(--wp--style--block-gap,1.75rem)!important}.ext-left-lg{left:var(--extendify--spacing--large,3rem)!important}.ext--left-base{left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--left-lg{left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-order-1{order:1!important}.ext-order-2{order:2!important}.ext-col-auto{grid-column:auto!important}.ext-col-span-1{grid-column:span 1/span 1!important}.ext-col-span-2{grid-column:span 2/span 2!important}.ext-col-span-3{grid-column:span 3/span 3!important}.ext-col-span-4{grid-column:span 4/span 4!important}.ext-col-span-5{grid-column:span 5/span 5!important}.ext-col-span-6{grid-column:span 6/span 6!important}.ext-col-span-7{grid-column:span 7/span 7!important}.ext-col-span-8{grid-column:span 8/span 8!important}.ext-col-span-9{grid-column:span 9/span 9!important}.ext-col-span-10{grid-column:span 10/span 10!important}.ext-col-span-11{grid-column:span 11/span 11!important}.ext-col-span-12{grid-column:span 12/span 12!important}.ext-col-span-full{grid-column:1/-1!important}.ext-col-start-1{grid-column-start:1!important}.ext-col-start-2{grid-column-start:2!important}.ext-col-start-3{grid-column-start:3!important}.ext-col-start-4{grid-column-start:4!important}.ext-col-start-5{grid-column-start:5!important}.ext-col-start-6{grid-column-start:6!important}.ext-col-start-7{grid-column-start:7!important}.ext-col-start-8{grid-column-start:8!important}.ext-col-start-9{grid-column-start:9!important}.ext-col-start-10{grid-column-start:10!important}.ext-col-start-11{grid-column-start:11!important}.ext-col-start-12{grid-column-start:12!important}.ext-col-start-13{grid-column-start:13!important}.ext-col-start-auto{grid-column-start:auto!important}.ext-col-end-1{grid-column-end:1!important}.ext-col-end-2{grid-column-end:2!important}.ext-col-end-3{grid-column-end:3!important}.ext-col-end-4{grid-column-end:4!important}.ext-col-end-5{grid-column-end:5!important}.ext-col-end-6{grid-column-end:6!important}.ext-col-end-7{grid-column-end:7!important}.ext-col-end-8{grid-column-end:8!important}.ext-col-end-9{grid-column-end:9!important}.ext-col-end-10{grid-column-end:10!important}.ext-col-end-11{grid-column-end:11!important}.ext-col-end-12{grid-column-end:12!important}.ext-col-end-13{grid-column-end:13!important}.ext-col-end-auto{grid-column-end:auto!important}.ext-row-auto{grid-row:auto!important}.ext-row-span-1{grid-row:span 1/span 1!important}.ext-row-span-2{grid-row:span 2/span 2!important}.ext-row-span-3{grid-row:span 3/span 3!important}.ext-row-span-4{grid-row:span 4/span 4!important}.ext-row-span-5{grid-row:span 5/span 5!important}.ext-row-span-6{grid-row:span 6/span 6!important}.ext-row-span-full{grid-row:1/-1!important}.ext-row-start-1{grid-row-start:1!important}.ext-row-start-2{grid-row-start:2!important}.ext-row-start-3{grid-row-start:3!important}.ext-row-start-4{grid-row-start:4!important}.ext-row-start-5{grid-row-start:5!important}.ext-row-start-6{grid-row-start:6!important}.ext-row-start-7{grid-row-start:7!important}.ext-row-start-auto{grid-row-start:auto!important}.ext-row-end-1{grid-row-end:1!important}.ext-row-end-2{grid-row-end:2!important}.ext-row-end-3{grid-row-end:3!important}.ext-row-end-4{grid-row-end:4!important}.ext-row-end-5{grid-row-end:5!important}.ext-row-end-6{grid-row-end:6!important}.ext-row-end-7{grid-row-end:7!important}.ext-row-end-auto{grid-row-end:auto!important}.ext-m-0:not([style*=margin]){margin:0!important}.ext-m-auto:not([style*=margin]){margin:auto!important}.ext-m-base:not([style*=margin]){margin:var(--wp--style--block-gap,1.75rem)!important}.ext-m-lg:not([style*=margin]){margin:var(--extendify--spacing--large,3rem)!important}.ext--m-base:not([style*=margin]){margin:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--m-lg:not([style*=margin]){margin:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mx-0:not([style*=margin]){margin-left:0!important;margin-right:0!important}.ext-mx-auto:not([style*=margin]){margin-left:auto!important;margin-right:auto!important}.ext-mx-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}.ext-mx-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important;margin-right:var(--extendify--spacing--large,3rem)!important}.ext--mx-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mx-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.ext-my-auto:not([style*=margin]){margin-bottom:auto!important;margin-top:auto!important}.ext-my-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important;margin-top:var(--wp--style--block-gap,1.75rem)!important}.ext-my-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important;margin-top:var(--extendify--spacing--large,3rem)!important}.ext--my-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--my-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mt-0:not([style*=margin]){margin-top:0!important}.ext-mt-auto:not([style*=margin]){margin-top:auto!important}.ext-mt-base:not([style*=margin]){margin-top:var(--wp--style--block-gap,1.75rem)!important}.ext-mt-lg:not([style*=margin]){margin-top:var(--extendify--spacing--large,3rem)!important}.ext--mt-base:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mt-lg:not([style*=margin]){margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mr-0:not([style*=margin]){margin-right:0!important}.ext-mr-auto:not([style*=margin]){margin-right:auto!important}.ext-mr-base:not([style*=margin]){margin-right:var(--wp--style--block-gap,1.75rem)!important}.ext-mr-lg:not([style*=margin]){margin-right:var(--extendify--spacing--large,3rem)!important}.ext--mr-base:not([style*=margin]){margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mr-lg:not([style*=margin]){margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-mb-0:not([style*=margin]){margin-bottom:0!important}.ext-mb-auto:not([style*=margin]){margin-bottom:auto!important}.ext-mb-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}.ext-mb-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important}.ext--mb-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--mb-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-ml-0:not([style*=margin]){margin-left:0!important}.ext-ml-auto:not([style*=margin]){margin-left:auto!important}.ext-ml-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important}.ext-ml-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important}.ext--ml-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.ext--ml-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.ext-block{display:block!important}.ext-inline-block{display:inline-block!important}.ext-inline{display:inline!important}.ext-flex{display:flex!important}.ext-inline-flex{display:inline-flex!important}.ext-grid{display:grid!important}.ext-inline-grid{display:inline-grid!important}.ext-hidden{display:none!important}.ext-w-auto{width:auto!important}.ext-w-full{width:100%!important}.ext-max-w-full{max-width:100%!important}.ext-flex-1{flex:1 1 0%!important}.ext-flex-auto{flex:1 1 auto!important}.ext-flex-initial{flex:0 1 auto!important}.ext-flex-none{flex:none!important}.ext-flex-shrink-0{flex-shrink:0!important}.ext-flex-shrink{flex-shrink:1!important}.ext-flex-grow-0{flex-grow:0!important}.ext-flex-grow{flex-grow:1!important}.ext-list-none{list-style-type:none!important}.ext-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.ext-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.ext-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))!important}.ext-grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))!important}.ext-grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))!important}.ext-grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))!important}.ext-grid-cols-7{grid-template-columns:repeat(7,minmax(0,1fr))!important}.ext-grid-cols-8{grid-template-columns:repeat(8,minmax(0,1fr))!important}.ext-grid-cols-9{grid-template-columns:repeat(9,minmax(0,1fr))!important}.ext-grid-cols-10{grid-template-columns:repeat(10,minmax(0,1fr))!important}.ext-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.ext-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.ext-grid-cols-none{grid-template-columns:none!important}.ext-grid-rows-1{grid-template-rows:repeat(1,minmax(0,1fr))!important}.ext-grid-rows-2{grid-template-rows:repeat(2,minmax(0,1fr))!important}.ext-grid-rows-3{grid-template-rows:repeat(3,minmax(0,1fr))!important}.ext-grid-rows-4{grid-template-rows:repeat(4,minmax(0,1fr))!important}.ext-grid-rows-5{grid-template-rows:repeat(5,minmax(0,1fr))!important}.ext-grid-rows-6{grid-template-rows:repeat(6,minmax(0,1fr))!important}.ext-grid-rows-none{grid-template-rows:none!important}.ext-flex-row{flex-direction:row!important}.ext-flex-row-reverse{flex-direction:row-reverse!important}.ext-flex-col{flex-direction:column!important}.ext-flex-col-reverse{flex-direction:column-reverse!important}.ext-flex-wrap{flex-wrap:wrap!important}.ext-flex-wrap-reverse{flex-wrap:wrap-reverse!important}.ext-flex-nowrap{flex-wrap:nowrap!important}.ext-items-start{align-items:flex-start!important}.ext-items-end{align-items:flex-end!important}.ext-items-center{align-items:center!important}.ext-items-baseline{align-items:baseline!important}.ext-items-stretch{align-items:stretch!important}.ext-justify-start{justify-content:flex-start!important}.ext-justify-end{justify-content:flex-end!important}.ext-justify-center{justify-content:center!important}.ext-justify-between{justify-content:space-between!important}.ext-justify-around{justify-content:space-around!important}.ext-justify-evenly{justify-content:space-evenly!important}.ext-justify-items-start{justify-items:start!important}.ext-justify-items-end{justify-items:end!important}.ext-justify-items-center{justify-items:center!important}.ext-justify-items-stretch{justify-items:stretch!important}.ext-gap-0{gap:0!important}.ext-gap-base{gap:var(--wp--style--block-gap,1.75rem)!important}.ext-gap-lg{gap:var(--extendify--spacing--large,3rem)!important}.ext-gap-x-0{-moz-column-gap:0!important;column-gap:0!important}.ext-gap-x-base{-moz-column-gap:var(--wp--style--block-gap,1.75rem)!important;column-gap:var(--wp--style--block-gap,1.75rem)!important}.ext-gap-x-lg{-moz-column-gap:var(--extendify--spacing--large,3rem)!important;column-gap:var(--extendify--spacing--large,3rem)!important}.ext-gap-y-0{row-gap:0!important}.ext-gap-y-base{row-gap:var(--wp--style--block-gap,1.75rem)!important}.ext-gap-y-lg{row-gap:var(--extendify--spacing--large,3rem)!important}.ext-justify-self-auto{justify-self:auto!important}.ext-justify-self-start{justify-self:start!important}.ext-justify-self-end{justify-self:end!important}.ext-justify-self-center{justify-self:center!important}.ext-justify-self-stretch{justify-self:stretch!important}.ext-rounded-none{border-radius:0!important}.ext-rounded-full{border-radius:9999px!important}.ext-rounded-t-none{border-top-left-radius:0!important;border-top-right-radius:0!important}.ext-rounded-t-full{border-top-left-radius:9999px!important;border-top-right-radius:9999px!important}.ext-rounded-r-none{border-bottom-right-radius:0!important;border-top-right-radius:0!important}.ext-rounded-r-full{border-bottom-right-radius:9999px!important;border-top-right-radius:9999px!important}.ext-rounded-b-none{border-bottom-left-radius:0!important;border-bottom-right-radius:0!important}.ext-rounded-b-full{border-bottom-left-radius:9999px!important;border-bottom-right-radius:9999px!important}.ext-rounded-l-none{border-bottom-left-radius:0!important;border-top-left-radius:0!important}.ext-rounded-l-full{border-bottom-left-radius:9999px!important;border-top-left-radius:9999px!important}.ext-rounded-tl-none{border-top-left-radius:0!important}.ext-rounded-tl-full{border-top-left-radius:9999px!important}.ext-rounded-tr-none{border-top-right-radius:0!important}.ext-rounded-tr-full{border-top-right-radius:9999px!important}.ext-rounded-br-none{border-bottom-right-radius:0!important}.ext-rounded-br-full{border-bottom-right-radius:9999px!important}.ext-rounded-bl-none{border-bottom-left-radius:0!important}.ext-rounded-bl-full{border-bottom-left-radius:9999px!important}.ext-border-0{border-width:0!important}.ext-border-t-0{border-top-width:0!important}.ext-border-r-0{border-right-width:0!important}.ext-border-b-0{border-bottom-width:0!important}.ext-border-l-0{border-left-width:0!important}.ext-p-0:not([style*=padding]){padding:0!important}.ext-p-base:not([style*=padding]){padding:var(--wp--style--block-gap,1.75rem)!important}.ext-p-lg:not([style*=padding]){padding:var(--extendify--spacing--large,3rem)!important}.ext-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.ext-px-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important;padding-right:var(--wp--style--block-gap,1.75rem)!important}.ext-px-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important;padding-right:var(--extendify--spacing--large,3rem)!important}.ext-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.ext-py-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important;padding-top:var(--wp--style--block-gap,1.75rem)!important}.ext-py-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important;padding-top:var(--extendify--spacing--large,3rem)!important}.ext-pt-0:not([style*=padding]){padding-top:0!important}.ext-pt-base:not([style*=padding]){padding-top:var(--wp--style--block-gap,1.75rem)!important}.ext-pt-lg:not([style*=padding]){padding-top:var(--extendify--spacing--large,3rem)!important}.ext-pr-0:not([style*=padding]){padding-right:0!important}.ext-pr-base:not([style*=padding]){padding-right:var(--wp--style--block-gap,1.75rem)!important}.ext-pr-lg:not([style*=padding]){padding-right:var(--extendify--spacing--large,3rem)!important}.ext-pb-0:not([style*=padding]){padding-bottom:0!important}.ext-pb-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important}.ext-pb-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important}.ext-pl-0:not([style*=padding]){padding-left:0!important}.ext-pl-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important}.ext-pl-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important}.ext-text-left{text-align:left!important}.ext-text-center{text-align:center!important}.ext-text-right{text-align:right!important}.ext-leading-none{line-height:1!important}.ext-leading-tight{line-height:1.25!important}.ext-leading-snug{line-height:1.375!important}.ext-leading-normal{line-height:1.5!important}.ext-leading-relaxed{line-height:1.625!important}.ext-leading-loose{line-height:2!important}.clip-path--rhombus img{-webkit-clip-path:polygon(15% 6%,80% 29%,84% 93%,23% 69%);clip-path:polygon(15% 6%,80% 29%,84% 93%,23% 69%)}.clip-path--diamond img{-webkit-clip-path:polygon(5% 29%,60% 2%,91% 64%,36% 89%);clip-path:polygon(5% 29%,60% 2%,91% 64%,36% 89%)}.clip-path--rhombus-alt img{-webkit-clip-path:polygon(14% 9%,85% 24%,91% 89%,19% 76%);clip-path:polygon(14% 9%,85% 24%,91% 89%,19% 76%)}.wp-block-columns[class*=fullwidth-cols]{margin-bottom:unset}.wp-block-column.editor\:pointer-events-none{margin-bottom:0!important;margin-top:0!important}.is-root-container.block-editor-block-list__layout>[data-align=full]:not(:first-of-type)>.wp-block-column.editor\:pointer-events-none,.is-root-container.block-editor-block-list__layout>[data-align=wide]>.wp-block-column.editor\:pointer-events-none{margin-top:calc(var(--wp--style--block-gap, 28px)*-1)!important}.ext .wp-block-columns .wp-block-column[style*=padding]{padding-left:0!important;padding-right:0!important}.ext .wp-block-columns+.wp-block-columns:not([class*=mt-]):not([class*=my-]):not([style*=margin]){margin-top:0!important}[class*=fullwidth-cols] .wp-block-column:first-child,[class*=fullwidth-cols] .wp-block-group:first-child{margin-top:0}[class*=fullwidth-cols] .wp-block-column:last-child,[class*=fullwidth-cols] .wp-block-group:last-child{margin-bottom:0}[class*=fullwidth-cols] .wp-block-column:first-child>*,[class*=fullwidth-cols] .wp-block-column>:first-child{margin-top:0}.ext .is-not-stacked-on-mobile .wp-block-column,[class*=fullwidth-cols] .wp-block-column>:last-child{margin-bottom:0}.wp-block-columns[class*=fullwidth-cols]:not(.is-not-stacked-on-mobile)>.wp-block-column:not(:last-child){margin-bottom:var(--wp--style--block-gap,1.75rem)}@media (min-width:782px){.wp-block-columns[class*=fullwidth-cols]:not(.is-not-stacked-on-mobile)>.wp-block-column:not(:last-child){margin-bottom:0}}.wp-block-columns[class*=fullwidth-cols].is-not-stacked-on-mobile>.wp-block-column{margin-bottom:0!important}@media (min-width:600px) and (max-width:781px){.wp-block-columns[class*=fullwidth-cols]:not(.is-not-stacked-on-mobile)>.wp-block-column:nth-child(2n){margin-left:var(--wp--style--block-gap,2em)}}@media (max-width:781px){.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile){flex-wrap:wrap}.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column,.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not([style*=margin]){margin-left:0!important}.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (max-width:1079px){.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile){flex-wrap:wrap}.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column,.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not([style*=margin]){margin-left:0!important}.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not(:last-child){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}}.direction-rtl{direction:rtl}.direction-ltr{direction:ltr}.is-style-inline-list{padding-left:0!important}.is-style-inline-list li{list-style-type:none!important}@media (min-width:782px){.is-style-inline-list li{display:inline!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}}@media (min-width:782px){.is-style-inline-list li:first-child{margin-left:0!important}}@media (min-width:782px){.is-style-inline-list li:last-child{margin-right:0!important}}.bring-to-front{position:relative;z-index:10}.text-stroke{-webkit-text-stroke-color:var(--wp--preset--color--background)}.text-stroke,.text-stroke--primary{-webkit-text-stroke-width:var(
+        --wp--custom--typography--text-stroke-width,2px
+    )}.text-stroke--primary{-webkit-text-stroke-color:var(--wp--preset--color--primary)}.text-stroke--secondary{-webkit-text-stroke-width:var(
+        --wp--custom--typography--text-stroke-width,2px
+    );-webkit-text-stroke-color:var(--wp--preset--color--secondary)}.editor\:no-caption .block-editor-rich-text__editable{display:none!important}.editor\:no-inserter .wp-block-column:not(.is-selected)>.block-list-appender,.editor\:no-inserter .wp-block-cover__inner-container>.block-list-appender,.editor\:no-inserter .wp-block-group__inner-container>.block-list-appender,.editor\:no-inserter>.block-list-appender{display:none}.editor\:no-resize .components-resizable-box__handle,.editor\:no-resize .components-resizable-box__handle:after,.editor\:no-resize .components-resizable-box__side-handle:before{display:none;pointer-events:none}.editor\:no-resize .components-resizable-box__container{display:block}.editor\:pointer-events-none{pointer-events:none}.is-style-angled{justify-content:flex-end}.ext .is-style-angled>[class*=_inner-container],.is-style-angled{align-items:center}.is-style-angled .wp-block-cover__image-background,.is-style-angled .wp-block-cover__video-background{-webkit-clip-path:polygon(0 0,30% 0,50% 100%,0 100%);clip-path:polygon(0 0,30% 0,50% 100%,0 100%);z-index:1}@media (min-width:782px){.is-style-angled .wp-block-cover__image-background,.is-style-angled .wp-block-cover__video-background{-webkit-clip-path:polygon(0 0,55% 0,65% 100%,0 100%);clip-path:polygon(0 0,55% 0,65% 100%,0 100%)}}.has-foreground-color{color:var(--wp--preset--color--foreground,#000)!important}.has-foreground-background-color{background-color:var(--wp--preset--color--foreground,#000)!important}.has-background-color{color:var(--wp--preset--color--background,#fff)!important}.has-background-background-color{background-color:var(--wp--preset--color--background,#fff)!important}.has-primary-color{color:var(--wp--preset--color--primary,#4b5563)!important}.has-primary-background-color{background-color:var(--wp--preset--color--primary,#4b5563)!important}.has-secondary-color{color:var(--wp--preset--color--secondary,#9ca3af)!important}.has-secondary-background-color{background-color:var(--wp--preset--color--secondary,#9ca3af)!important}.ext.has-text-color h1,.ext.has-text-color h2,.ext.has-text-color h3,.ext.has-text-color h4,.ext.has-text-color h5,.ext.has-text-color h6,.ext.has-text-color p{color:currentColor}.has-white-color{color:var(--wp--preset--color--white,#fff)!important}.has-black-color{color:var(--wp--preset--color--black,#000)!important}.has-ext-foreground-background-color{background-color:var(
+        --wp--preset--color--foreground,var(--wp--preset--color--black,#000)
+    )!important}.has-ext-primary-background-color{background-color:var(
+        --wp--preset--color--primary,var(--wp--preset--color--cyan-bluish-gray,#000)
+    )!important}.wp-block-button__link.has-black-background-color{border-color:var(--wp--preset--color--black,#000)}.wp-block-button__link.has-white-background-color{border-color:var(--wp--preset--color--white,#fff)}.has-ext-small-font-size{font-size:var(--wp--preset--font-size--ext-small)!important}.has-ext-medium-font-size{font-size:var(--wp--preset--font-size--ext-medium)!important}.has-ext-large-font-size{font-size:var(--wp--preset--font-size--ext-large)!important;line-height:1.2}.has-ext-x-large-font-size{font-size:var(--wp--preset--font-size--ext-x-large)!important;line-height:1}.has-ext-xx-large-font-size{font-size:var(--wp--preset--font-size--ext-xx-large)!important;line-height:1}.has-ext-x-large-font-size:not([style*=line-height]),.has-ext-xx-large-font-size:not([style*=line-height]){line-height:1.1}.ext .wp-block-group>*{margin-bottom:0;margin-top:0}.ext .wp-block-group>*+*{margin-bottom:0}.ext .wp-block-group>*+*,.ext h2{margin-top:var(--wp--style--block-gap,1.75rem)}.ext h2{margin-bottom:var(--wp--style--block-gap,1.75rem)}.has-ext-x-large-font-size+h3,.has-ext-x-large-font-size+p{margin-top:.5rem}.ext .wp-block-buttons>.wp-block-button.wp-block-button__width-25{min-width:12rem;width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.ext .ext-grid>[class*=_inner-container]{display:grid}.ext>[class*=_inner-container]>.ext-grid:not([class*=columns]),.ext>[class*=_inner-container]>.wp-block>.ext-grid:not([class*=columns]){display:initial!important}.ext .ext-grid-cols-1>[class*=_inner-container]{grid-template-columns:repeat(1,minmax(0,1fr))!important}.ext .ext-grid-cols-2>[class*=_inner-container]{grid-template-columns:repeat(2,minmax(0,1fr))!important}.ext .ext-grid-cols-3>[class*=_inner-container]{grid-template-columns:repeat(3,minmax(0,1fr))!important}.ext .ext-grid-cols-4>[class*=_inner-container]{grid-template-columns:repeat(4,minmax(0,1fr))!important}.ext .ext-grid-cols-5>[class*=_inner-container]{grid-template-columns:repeat(5,minmax(0,1fr))!important}.ext .ext-grid-cols-6>[class*=_inner-container]{grid-template-columns:repeat(6,minmax(0,1fr))!important}.ext .ext-grid-cols-7>[class*=_inner-container]{grid-template-columns:repeat(7,minmax(0,1fr))!important}.ext .ext-grid-cols-8>[class*=_inner-container]{grid-template-columns:repeat(8,minmax(0,1fr))!important}.ext .ext-grid-cols-9>[class*=_inner-container]{grid-template-columns:repeat(9,minmax(0,1fr))!important}.ext .ext-grid-cols-10>[class*=_inner-container]{grid-template-columns:repeat(10,minmax(0,1fr))!important}.ext .ext-grid-cols-11>[class*=_inner-container]{grid-template-columns:repeat(11,minmax(0,1fr))!important}.ext .ext-grid-cols-12>[class*=_inner-container]{grid-template-columns:repeat(12,minmax(0,1fr))!important}.ext .ext-grid-cols-13>[class*=_inner-container]{grid-template-columns:repeat(13,minmax(0,1fr))!important}.ext .ext-grid-cols-none>[class*=_inner-container]{grid-template-columns:none!important}.ext .ext-grid-rows-1>[class*=_inner-container]{grid-template-rows:repeat(1,minmax(0,1fr))!important}.ext .ext-grid-rows-2>[class*=_inner-container]{grid-template-rows:repeat(2,minmax(0,1fr))!important}.ext .ext-grid-rows-3>[class*=_inner-container]{grid-template-rows:repeat(3,minmax(0,1fr))!important}.ext .ext-grid-rows-4>[class*=_inner-container]{grid-template-rows:repeat(4,minmax(0,1fr))!important}.ext .ext-grid-rows-5>[class*=_inner-container]{grid-template-rows:repeat(5,minmax(0,1fr))!important}.ext .ext-grid-rows-6>[class*=_inner-container]{grid-template-rows:repeat(6,minmax(0,1fr))!important}.ext .ext-grid-rows-none>[class*=_inner-container]{grid-template-rows:none!important}.ext .ext-items-start>[class*=_inner-container]{align-items:flex-start!important}.ext .ext-items-end>[class*=_inner-container]{align-items:flex-end!important}.ext .ext-items-center>[class*=_inner-container]{align-items:center!important}.ext .ext-items-baseline>[class*=_inner-container]{align-items:baseline!important}.ext .ext-items-stretch>[class*=_inner-container]{align-items:stretch!important}.ext.wp-block-group>:last-child{margin-bottom:0}.ext .wp-block-group__inner-container{padding:0!important}.ext.has-background{padding-left:var(--wp--style--block-gap,1.75rem);padding-right:var(--wp--style--block-gap,1.75rem)}.ext [class*=inner-container]>.alignwide [class*=inner-container],.ext [class*=inner-container]>[data-align=wide] [class*=inner-container]{max-width:var(--responsive--alignwide-width,120rem)}.ext [class*=inner-container]>.alignwide [class*=inner-container]>*,.ext [class*=inner-container]>[data-align=wide] [class*=inner-container]>*{max-width:100%!important}.ext .wp-block-image{position:relative;text-align:center}.ext .wp-block-image img{display:inline-block;vertical-align:middle}body{--extendify--spacing--large:var(
+        --wp--custom--spacing--large,clamp(2em,8vw,8em)
+    );--wp--preset--font-size--ext-small:1rem;--wp--preset--font-size--ext-medium:1.125rem;--wp--preset--font-size--ext-large:clamp(1.65rem,3.5vw,2.15rem);--wp--preset--font-size--ext-x-large:clamp(3rem,6vw,4.75rem);--wp--preset--font-size--ext-xx-large:clamp(3.25rem,7.5vw,5.75rem);--wp--preset--color--black:#000;--wp--preset--color--white:#fff}.ext *{box-sizing:border-box}.block-editor-block-preview__content-iframe .ext [data-type="core/spacer"] .components-resizable-box__container{background:transparent!important}.block-editor-block-preview__content-iframe .ext [data-type="core/spacer"] .block-library-spacer__resize-container:before{display:none!important}.ext .wp-block-group__inner-container figure.wp-block-gallery.alignfull{margin-bottom:unset;margin-top:unset}.ext .alignwide{margin-left:auto!important;margin-right:auto!important}.is-root-container.block-editor-block-list__layout>[data-align=full]:not(:first-of-type)>.ext-my-0,.is-root-container.block-editor-block-list__layout>[data-align=wide]>.ext-my-0:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 28px)*-1)!important}.block-editor-block-preview__content-iframe .preview\:min-h-50{min-height:50vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-60{min-height:60vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-70{min-height:70vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-80{min-height:80vw!important}.block-editor-block-preview__content-iframe .preview\:min-h-100{min-height:100vw!important}.ext-mr-0.alignfull:not([style*=margin]):not([style*=margin]){margin-right:0!important}.ext-ml-0:not([style*=margin]):not([style*=margin]){margin-left:0!important}.is-root-container .wp-block[data-align=full]>.ext-mx-0:not([style*=margin]):not([style*=margin]){margin-left:calc(var(--wp--custom--spacing--outer, 0)*1)!important;margin-right:calc(var(--wp--custom--spacing--outer, 0)*1)!important;overflow:hidden;width:unset}@media (min-width:782px){.tablet\:ext-absolute{position:absolute!important}.tablet\:ext-relative{position:relative!important}.tablet\:ext-top-base{top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-top-lg{top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--top-base{top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--top-lg{top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-right-base{right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-right-lg{right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--right-base{right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--right-lg{right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-bottom-base{bottom:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-bottom-lg{bottom:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--bottom-base{bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--bottom-lg{bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-left-base{left:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-left-lg{left:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--left-base{left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--left-lg{left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-order-1{order:1!important}.tablet\:ext-order-2{order:2!important}.tablet\:ext-m-0:not([style*=margin]){margin:0!important}.tablet\:ext-m-auto:not([style*=margin]){margin:auto!important}.tablet\:ext-m-base:not([style*=margin]){margin:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-m-lg:not([style*=margin]){margin:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--m-base:not([style*=margin]){margin:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--m-lg:not([style*=margin]){margin:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mx-0:not([style*=margin]){margin-left:0!important;margin-right:0!important}.tablet\:ext-mx-auto:not([style*=margin]){margin-left:auto!important;margin-right:auto!important}.tablet\:ext-mx-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mx-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important;margin-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mx-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mx-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.tablet\:ext-my-auto:not([style*=margin]){margin-bottom:auto!important;margin-top:auto!important}.tablet\:ext-my-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important;margin-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-my-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important;margin-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--my-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--my-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mt-0:not([style*=margin]){margin-top:0!important}.tablet\:ext-mt-auto:not([style*=margin]){margin-top:auto!important}.tablet\:ext-mt-base:not([style*=margin]){margin-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mt-lg:not([style*=margin]){margin-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mt-base:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mt-lg:not([style*=margin]){margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mr-0:not([style*=margin]){margin-right:0!important}.tablet\:ext-mr-auto:not([style*=margin]){margin-right:auto!important}.tablet\:ext-mr-base:not([style*=margin]){margin-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mr-lg:not([style*=margin]){margin-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mr-base:not([style*=margin]){margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mr-lg:not([style*=margin]){margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-mb-0:not([style*=margin]){margin-bottom:0!important}.tablet\:ext-mb-auto:not([style*=margin]){margin-bottom:auto!important}.tablet\:ext-mb-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-mb-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--mb-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--mb-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-ml-0:not([style*=margin]){margin-left:0!important}.tablet\:ext-ml-auto:not([style*=margin]){margin-left:auto!important}.tablet\:ext-ml-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-ml-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important}.tablet\:ext--ml-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.tablet\:ext--ml-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.tablet\:ext-block{display:block!important}.tablet\:ext-inline-block{display:inline-block!important}.tablet\:ext-inline{display:inline!important}.tablet\:ext-flex{display:flex!important}.tablet\:ext-inline-flex{display:inline-flex!important}.tablet\:ext-grid{display:grid!important}.tablet\:ext-inline-grid{display:inline-grid!important}.tablet\:ext-hidden{display:none!important}.tablet\:ext-w-auto{width:auto!important}.tablet\:ext-w-full{width:100%!important}.tablet\:ext-max-w-full{max-width:100%!important}.tablet\:ext-flex-1{flex:1 1 0%!important}.tablet\:ext-flex-auto{flex:1 1 auto!important}.tablet\:ext-flex-initial{flex:0 1 auto!important}.tablet\:ext-flex-none{flex:none!important}.tablet\:ext-flex-shrink-0{flex-shrink:0!important}.tablet\:ext-flex-shrink{flex-shrink:1!important}.tablet\:ext-flex-grow-0{flex-grow:0!important}.tablet\:ext-flex-grow{flex-grow:1!important}.tablet\:ext-list-none{list-style-type:none!important}.tablet\:ext-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.tablet\:ext-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.tablet\:ext-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))!important}.tablet\:ext-grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))!important}.tablet\:ext-grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))!important}.tablet\:ext-grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))!important}.tablet\:ext-grid-cols-7{grid-template-columns:repeat(7,minmax(0,1fr))!important}.tablet\:ext-grid-cols-8{grid-template-columns:repeat(8,minmax(0,1fr))!important}.tablet\:ext-grid-cols-9{grid-template-columns:repeat(9,minmax(0,1fr))!important}.tablet\:ext-grid-cols-10{grid-template-columns:repeat(10,minmax(0,1fr))!important}.tablet\:ext-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.tablet\:ext-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.tablet\:ext-grid-cols-none{grid-template-columns:none!important}.tablet\:ext-flex-row{flex-direction:row!important}.tablet\:ext-flex-row-reverse{flex-direction:row-reverse!important}.tablet\:ext-flex-col{flex-direction:column!important}.tablet\:ext-flex-col-reverse{flex-direction:column-reverse!important}.tablet\:ext-flex-wrap{flex-wrap:wrap!important}.tablet\:ext-flex-wrap-reverse{flex-wrap:wrap-reverse!important}.tablet\:ext-flex-nowrap{flex-wrap:nowrap!important}.tablet\:ext-items-start{align-items:flex-start!important}.tablet\:ext-items-end{align-items:flex-end!important}.tablet\:ext-items-center{align-items:center!important}.tablet\:ext-items-baseline{align-items:baseline!important}.tablet\:ext-items-stretch{align-items:stretch!important}.tablet\:ext-justify-start{justify-content:flex-start!important}.tablet\:ext-justify-end{justify-content:flex-end!important}.tablet\:ext-justify-center{justify-content:center!important}.tablet\:ext-justify-between{justify-content:space-between!important}.tablet\:ext-justify-around{justify-content:space-around!important}.tablet\:ext-justify-evenly{justify-content:space-evenly!important}.tablet\:ext-justify-items-start{justify-items:start!important}.tablet\:ext-justify-items-end{justify-items:end!important}.tablet\:ext-justify-items-center{justify-items:center!important}.tablet\:ext-justify-items-stretch{justify-items:stretch!important}.tablet\:ext-justify-self-auto{justify-self:auto!important}.tablet\:ext-justify-self-start{justify-self:start!important}.tablet\:ext-justify-self-end{justify-self:end!important}.tablet\:ext-justify-self-center{justify-self:center!important}.tablet\:ext-justify-self-stretch{justify-self:stretch!important}.tablet\:ext-p-0:not([style*=padding]){padding:0!important}.tablet\:ext-p-base:not([style*=padding]){padding:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-p-lg:not([style*=padding]){padding:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.tablet\:ext-px-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important;padding-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-px-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important;padding-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.tablet\:ext-py-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important;padding-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-py-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important;padding-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pt-0:not([style*=padding]){padding-top:0!important}.tablet\:ext-pt-base:not([style*=padding]){padding-top:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pt-lg:not([style*=padding]){padding-top:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pr-0:not([style*=padding]){padding-right:0!important}.tablet\:ext-pr-base:not([style*=padding]){padding-right:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pr-lg:not([style*=padding]){padding-right:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pb-0:not([style*=padding]){padding-bottom:0!important}.tablet\:ext-pb-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pb-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-pl-0:not([style*=padding]){padding-left:0!important}.tablet\:ext-pl-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important}.tablet\:ext-pl-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important}.tablet\:ext-text-left{text-align:left!important}.tablet\:ext-text-center{text-align:center!important}.tablet\:ext-text-right{text-align:right!important}}@media (min-width:1080px){.desktop\:ext-absolute{position:absolute!important}.desktop\:ext-relative{position:relative!important}.desktop\:ext-top-base{top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-top-lg{top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--top-base{top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--top-lg{top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-right-base{right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-right-lg{right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--right-base{right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--right-lg{right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-bottom-base{bottom:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-bottom-lg{bottom:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--bottom-base{bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--bottom-lg{bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-left-base{left:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-left-lg{left:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--left-base{left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--left-lg{left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-order-1{order:1!important}.desktop\:ext-order-2{order:2!important}.desktop\:ext-m-0:not([style*=margin]){margin:0!important}.desktop\:ext-m-auto:not([style*=margin]){margin:auto!important}.desktop\:ext-m-base:not([style*=margin]){margin:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-m-lg:not([style*=margin]){margin:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--m-base:not([style*=margin]){margin:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--m-lg:not([style*=margin]){margin:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mx-0:not([style*=margin]){margin-left:0!important;margin-right:0!important}.desktop\:ext-mx-auto:not([style*=margin]){margin-left:auto!important;margin-right:auto!important}.desktop\:ext-mx-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important;margin-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mx-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important;margin-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mx-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mx-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.desktop\:ext-my-auto:not([style*=margin]){margin-bottom:auto!important;margin-top:auto!important}.desktop\:ext-my-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important;margin-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-my-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important;margin-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--my-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important;margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--my-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important;margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mt-0:not([style*=margin]){margin-top:0!important}.desktop\:ext-mt-auto:not([style*=margin]){margin-top:auto!important}.desktop\:ext-mt-base:not([style*=margin]){margin-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mt-lg:not([style*=margin]){margin-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mt-base:not([style*=margin]){margin-top:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mt-lg:not([style*=margin]){margin-top:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mr-0:not([style*=margin]){margin-right:0!important}.desktop\:ext-mr-auto:not([style*=margin]){margin-right:auto!important}.desktop\:ext-mr-base:not([style*=margin]){margin-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mr-lg:not([style*=margin]){margin-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mr-base:not([style*=margin]){margin-right:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mr-lg:not([style*=margin]){margin-right:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-mb-0:not([style*=margin]){margin-bottom:0!important}.desktop\:ext-mb-auto:not([style*=margin]){margin-bottom:auto!important}.desktop\:ext-mb-base:not([style*=margin]){margin-bottom:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-mb-lg:not([style*=margin]){margin-bottom:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--mb-base:not([style*=margin]){margin-bottom:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--mb-lg:not([style*=margin]){margin-bottom:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-ml-0:not([style*=margin]){margin-left:0!important}.desktop\:ext-ml-auto:not([style*=margin]){margin-left:auto!important}.desktop\:ext-ml-base:not([style*=margin]){margin-left:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-ml-lg:not([style*=margin]){margin-left:var(--extendify--spacing--large,3rem)!important}.desktop\:ext--ml-base:not([style*=margin]){margin-left:calc(var(--wp--style--block-gap, 1.75rem)*-1)!important}.desktop\:ext--ml-lg:not([style*=margin]){margin-left:calc(var(--extendify--spacing--large, 3rem)*-1)!important}.desktop\:ext-block{display:block!important}.desktop\:ext-inline-block{display:inline-block!important}.desktop\:ext-inline{display:inline!important}.desktop\:ext-flex{display:flex!important}.desktop\:ext-inline-flex{display:inline-flex!important}.desktop\:ext-grid{display:grid!important}.desktop\:ext-inline-grid{display:inline-grid!important}.desktop\:ext-hidden{display:none!important}.desktop\:ext-w-auto{width:auto!important}.desktop\:ext-w-full{width:100%!important}.desktop\:ext-max-w-full{max-width:100%!important}.desktop\:ext-flex-1{flex:1 1 0%!important}.desktop\:ext-flex-auto{flex:1 1 auto!important}.desktop\:ext-flex-initial{flex:0 1 auto!important}.desktop\:ext-flex-none{flex:none!important}.desktop\:ext-flex-shrink-0{flex-shrink:0!important}.desktop\:ext-flex-shrink{flex-shrink:1!important}.desktop\:ext-flex-grow-0{flex-grow:0!important}.desktop\:ext-flex-grow{flex-grow:1!important}.desktop\:ext-list-none{list-style-type:none!important}.desktop\:ext-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.desktop\:ext-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.desktop\:ext-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))!important}.desktop\:ext-grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))!important}.desktop\:ext-grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))!important}.desktop\:ext-grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))!important}.desktop\:ext-grid-cols-7{grid-template-columns:repeat(7,minmax(0,1fr))!important}.desktop\:ext-grid-cols-8{grid-template-columns:repeat(8,minmax(0,1fr))!important}.desktop\:ext-grid-cols-9{grid-template-columns:repeat(9,minmax(0,1fr))!important}.desktop\:ext-grid-cols-10{grid-template-columns:repeat(10,minmax(0,1fr))!important}.desktop\:ext-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.desktop\:ext-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.desktop\:ext-grid-cols-none{grid-template-columns:none!important}.desktop\:ext-flex-row{flex-direction:row!important}.desktop\:ext-flex-row-reverse{flex-direction:row-reverse!important}.desktop\:ext-flex-col{flex-direction:column!important}.desktop\:ext-flex-col-reverse{flex-direction:column-reverse!important}.desktop\:ext-flex-wrap{flex-wrap:wrap!important}.desktop\:ext-flex-wrap-reverse{flex-wrap:wrap-reverse!important}.desktop\:ext-flex-nowrap{flex-wrap:nowrap!important}.desktop\:ext-items-start{align-items:flex-start!important}.desktop\:ext-items-end{align-items:flex-end!important}.desktop\:ext-items-center{align-items:center!important}.desktop\:ext-items-baseline{align-items:baseline!important}.desktop\:ext-items-stretch{align-items:stretch!important}.desktop\:ext-justify-start{justify-content:flex-start!important}.desktop\:ext-justify-end{justify-content:flex-end!important}.desktop\:ext-justify-center{justify-content:center!important}.desktop\:ext-justify-between{justify-content:space-between!important}.desktop\:ext-justify-around{justify-content:space-around!important}.desktop\:ext-justify-evenly{justify-content:space-evenly!important}.desktop\:ext-justify-items-start{justify-items:start!important}.desktop\:ext-justify-items-end{justify-items:end!important}.desktop\:ext-justify-items-center{justify-items:center!important}.desktop\:ext-justify-items-stretch{justify-items:stretch!important}.desktop\:ext-justify-self-auto{justify-self:auto!important}.desktop\:ext-justify-self-start{justify-self:start!important}.desktop\:ext-justify-self-end{justify-self:end!important}.desktop\:ext-justify-self-center{justify-self:center!important}.desktop\:ext-justify-self-stretch{justify-self:stretch!important}.desktop\:ext-p-0:not([style*=padding]){padding:0!important}.desktop\:ext-p-base:not([style*=padding]){padding:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-p-lg:not([style*=padding]){padding:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.desktop\:ext-px-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important;padding-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-px-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important;padding-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.desktop\:ext-py-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important;padding-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-py-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important;padding-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pt-0:not([style*=padding]){padding-top:0!important}.desktop\:ext-pt-base:not([style*=padding]){padding-top:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pt-lg:not([style*=padding]){padding-top:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pr-0:not([style*=padding]){padding-right:0!important}.desktop\:ext-pr-base:not([style*=padding]){padding-right:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pr-lg:not([style*=padding]){padding-right:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pb-0:not([style*=padding]){padding-bottom:0!important}.desktop\:ext-pb-base:not([style*=padding]){padding-bottom:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pb-lg:not([style*=padding]){padding-bottom:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-pl-0:not([style*=padding]){padding-left:0!important}.desktop\:ext-pl-base:not([style*=padding]){padding-left:var(--wp--style--block-gap,1.75rem)!important}.desktop\:ext-pl-lg:not([style*=padding]){padding-left:var(--extendify--spacing--large,3rem)!important}.desktop\:ext-text-left{text-align:left!important}.desktop\:ext-text-center{text-align:center!important}.desktop\:ext-text-right{text-align:right!important}}
+
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.goodtechguide.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='miptheme-bootstrap-css'  href='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/css/bootstrap.min.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='miptheme-external-styles-css'  href='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/css/mip.external.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='miptheme-style-css'  href='https://www.goodtechguide.com/wp-content/themes/weeklynews/style.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='miptheme-dynamic-css-css'  href='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/css/dynamic.css?ver=1658345398' type='text/css' media='all' />
+<link rel='stylesheet' id='typography-css-css'  href='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/css/font-style.css?ver=1658345398' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='miptheme-photobox-ie-css'  href='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/css/photobox.ie.css?ver=3.4.2' type='text/css' media='all' />
+<![endif]-->
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto:400,700%7CRoboto%20Condensed:400&#038;display=swap&#038;ver=6.0.1" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700%7CRoboto%20Condensed:400&#038;display=swap&#038;ver=6.0.1" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700%7CRoboto%20Condensed:400&#038;display=swap&#038;ver=6.0.1" /></noscript><script type='text/javascript' src='https://www.goodtechguide.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.7.0' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.goodtechguide.com","hash_tracking":"false","ua":"UA-108278436-1","v4_id":""};/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.goodtechguide.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.goodtechguide.com/wp-json/wp/v2/posts/977" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.goodtechguide.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.goodtechguide.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.1" />
+<link rel='shortlink' href='https://www.goodtechguide.com/?p=977' />
+<link rel="alternate" type="application/json+oembed" href="https://www.goodtechguide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.goodtechguide.com%2Fwhat-is-green-technology%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.goodtechguide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.goodtechguide.com%2Fwhat-is-green-technology%2F&#038;format=xml" />
+<meta name="generator" content="Redux 4.3.16" /><meta name = "viewport" content = "user-scalable=no, width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes" /><link rel="preconnect" href="https://cdnjs.cloudflare.com"><style type="text/css">
+.feedzy-rss-link-icon:after {
+	content: url("https://www.goodtechguide.com/wp-content/plugins/feedzy-rss-feeds/img/external-link.png");
+	margin-left: 3px;
+}
+</style>
+		            <!--Customizer CSS-->
+            <style type="text/css">
+                                                                                                                                                                                                                                                                                                                
+                                
+                                
+                                                                                
+                                                                
+                                                                                                                                
+                                                                                                                                                                                
+                                                                                                                                                
+            </style>
+            <!--/Customizer CSS-->
+            <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.goodtechguide.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><script></script><script></script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <!-- end:wp_head -->
+
+    <!--[if lt IE 9]>
+    <script src="https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/js/respond.js"></script>
+    <script src="https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/js/html5shiv.js"></script>
+    <![endif]-->
+	
+	<script data-ad-client="ca-pub-4073448926911442" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+</head>
+<body class="post-template-default single single-post postid-977 single-format-standard grid-1200 linkbox-layout-1 theme-boxed sidebar-dark review-default wpb-js-composer js-comp-ver-5.4.5 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+
+    <!-- start:body-start -->
+    <div class="reading-bar-progress"></div>    <!-- end:body-start -->
+
+    <!-- start:ad-top-banner -->
+        <!-- end:ad-top-banner -->
+
+    <!-- start:page outer wrap -->
+    <div id="page-outer-wrap">
+        <!-- start:page inner wrap -->
+        <div id="page-inner-wrap">
+
+            <!-- start:page header mobile -->
+            
+<header id="page-header-mobile" class="visible-xs visible-sm">
+
+    <!-- start:sidr -->
+    <nav id="mobile-menu">
+        <form id="search-form-mobile" class="mm-search" role="search" method="get" action="https://www.goodtechguide.com/">
+            <input type="text" name="s" placeholder="Search Good Tech Guide" value="" />
+        </form>
+        <ul id="menu-trimmed-menu" class="nav clearfix"><li id="mobile-nav-menu-item-554" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://www.goodtechguide.com/">Home</a></li>
+<li id="mobile-nav-menu-item-563" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a href="#">Hot Topics</a>
+<ul class="sub-menu">
+	<li id="mobile-nav-menu-item-594" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-62 "><a href="https://www.goodtechguide.com/ai/">AI</a></li>
+	<li id="mobile-nav-menu-item-647" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-63 "><a href="https://www.goodtechguide.com/vr-ar/">VR &#038; AR</a></li>
+	<li id="mobile-nav-menu-item-560" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-60 "><a href="https://www.goodtechguide.com/cloud-computing/">Cloud</a></li>
+	<li id="mobile-nav-menu-item-561" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-61 "><a href="https://www.goodtechguide.com/iot/">IoT</a></li>
+</ul>
+</li>
+<li id="mobile-nav-menu-item-556" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-category-2 "><a href="https://www.goodtechguide.com/business/">Business</a>
+<ul class="sub-menu">
+	<li id="mobile-nav-menu-item-559" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-54 "><a href="https://www.goodtechguide.com/elearning/">eLearning</a></li>
+	<li id="mobile-nav-menu-item-798" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.goodtechguide.com/green-web-hosting-companies/">Green Web Hosting Companies</a></li>
+	<li id="mobile-nav-menu-item-943" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.goodtechguide.com/best-standing-desk-reviews/">Best Standing Desk Reviews</a></li>
+</ul>
+</li>
+<li id="mobile-nav-menu-item-557" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-category-57 "><a href="https://www.goodtechguide.com/software/">Software</a>
+<ul class="sub-menu">
+	<li id="mobile-nav-menu-item-731" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.goodtechguide.com/hr-software-solutions/">HR Software Solutions</a></li>
+</ul>
+</li>
+<li id="mobile-nav-menu-item-558" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-66 "><a href="https://www.goodtechguide.com/data-analytics/">Data &#038; Analytics</a></li>
+<li id="mobile-nav-menu-item-562" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-65 "><a href="https://www.goodtechguide.com/experts/">Tech Experts</a></li>
+<li id="mobile-nav-menu-item-852" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children "><a href="https://www.goodtechguide.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="mobile-nav-menu-item-851" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.goodtechguide.com/privacy-policy/">Privacy &#038; Cookies</a></li>
+	<li id="mobile-nav-menu-item-555" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.goodtechguide.com/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+</ul>    </nav>
+    <!-- end:sidr -->
+
+
+    
+    <!-- start:row -->
+    <div  data-spy="affix" data-offset-top="50" class="row">
+        <!-- start:col -->
+<div class="col-xs-6">
+    <!-- start:logo -->
+    <div class="logo"><a href="https://www.goodtechguide.com/"><img src="https://www.goodtechguide.com/wp-content/uploads/2018/08/good-tech-guide-logo-sm.png" width="250" height="47" alt="Good Tech Guide" data-retina="https://www.goodtechguide.com/wp-content/uploads/2018/08/good-tech-guide-logo-dark.png" /></a></div>
+    <!-- end:logo -->
+</div>
+<!-- end:col -->
+
+<!-- start:col -->
+<div class="col-xs-6 text-right">
+    <a id="mobile-search-expander" href="#"><i class="fa fa-search"></i></a>
+    <a id="nav-expander" href="#mobile-menu"><span class="glyphicon glyphicon-th"></span></a>
+</div>
+<!-- end:col -->
+
+<div class="col-xs-12 mobile-search-dropdown">
+    <form method="get" class="form-inline" action="https://www.goodtechguide.com/">
+        <div class="form-group">
+            <input id="nav-search" type="text" name="s"  placeholder="Search Good Tech Guide" value="">
+        </div>
+    </form>
+</div>
+    </div>
+    <!-- end:row -->
+
+</header>
+<!-- end:page-header-mobile -->
+
+<!-- start:ad-above-banner -->
+<!-- end:ad-above-banner -->
+
+<!-- start:page-header -->
+<header id="page-header" class="hidden-xs hidden-sm">
+
+    
+    <!-- start:header-branding -->
+<div id="header-branding" class="header-layout-2">                
+    <!-- start:container -->
+    <div class="container">
+        
+        <!-- start:row -->
+        <div class="row">
+        
+            <!-- start:col -->
+            <div class="col-sm-6 col-md-6" itemscope="itemscope" itemtype="http://schema.org/Organization">
+                <!-- start:logo -->
+                <div class="logo"><a itemprop="url" href="https://www.goodtechguide.com/"><img class="img-responsive" src="https://www.goodtechguide.com/wp-content/uploads/2018/08/good-tech-guide-logo-sm.png" width="250" height="47" alt="Good Tech Guide" data-retina="https://www.goodtechguide.com/wp-content/uploads/2018/08/good-tech-guide-logo-dark.png" /></a></div>                <meta itemprop="name" content="Good Tech Guide">
+                <!-- end:logo -->
+            </div>
+            <!-- end:col -->
+            
+            <!-- start:col -->
+            <div class="col-sm-6 col-md-6 text-right">
+                <form id="search-form" role="search" method="get" action="https://www.goodtechguide.com/">
+                    <input type="text" name="s" placeholder="Search Good Tech Guide" value="" />
+                    <button><span class="glyphicon glyphicon-search"></span></button>
+                </form>
+            </div>
+            <!-- end:col -->
+            
+        </div>
+        <!-- end:row -->
+
+    </div>
+    <!-- end:container -->                    
+</div>
+<!-- end:header-branding -->
+    <!-- start:sticky-header -->
+    <div class="sticky-header-wrapper">
+        <div id="sticky-header" data-spy="affix" data-offset-top="100" class="sticky">
+
+            <!-- start:header-navigation -->
+            <div id="header-navigation">
+                <!-- start:container -->
+                <div class="container">
+
+                    <!-- start:menu -->
+                    <nav id="menu">
+                        <a href="https://www.goodtechguide.com/"><span class="sticky-logo"></span></a><ul id="menu-trimmed-menu-1" class="nav clearfix"><li id="nav-menu-item-554" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://www.goodtechguide.com/" class="menu-link main-menu-link">Home</a></li>
+<li id="nav-menu-item-563" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a href="#" class="menu-link main-menu-link">Hot Topics</a>
+<div class="dropnav-container"><ul class="dropnav-menu">
+	<li id="nav-menu-item-594" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-62 "><a href="https://www.goodtechguide.com/ai/" class="menu-link sub-menu-link">AI</a></li>
+	<li id="nav-menu-item-647" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-63 "><a href="https://www.goodtechguide.com/vr-ar/" class="menu-link sub-menu-link">VR &#038; AR</a></li>
+	<li id="nav-menu-item-560" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-60 "><a href="https://www.goodtechguide.com/cloud-computing/" class="menu-link sub-menu-link">Cloud</a></li>
+	<li id="nav-menu-item-561" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-61 "><a href="https://www.goodtechguide.com/iot/" class="menu-link sub-menu-link">IoT</a></li>
+</ul></div>
+</li>
+<li id="nav-menu-item-556" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-category-2 "><a href="https://www.goodtechguide.com/business/" class="menu-link main-menu-link">Business</a>
+<div class="dropnav-container"><ul class="dropnav-menu">
+	<li id="nav-menu-item-559" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-54 "><a href="https://www.goodtechguide.com/elearning/" class="menu-link sub-menu-link">eLearning</a></li>
+	<li id="nav-menu-item-798" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.goodtechguide.com/green-web-hosting-companies/" class="menu-link sub-menu-link">Green Web Hosting Companies</a></li>
+	<li id="nav-menu-item-943" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.goodtechguide.com/best-standing-desk-reviews/" class="menu-link sub-menu-link">Best Standing Desk Reviews</a></li>
+</ul></div>
+</li>
+<li id="nav-menu-item-557" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-category-57 "><a href="https://www.goodtechguide.com/software/" class="menu-link main-menu-link">Software</a>
+<div class="dropnav-container"><ul class="dropnav-menu">
+	<li id="nav-menu-item-731" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.goodtechguide.com/hr-software-solutions/" class="menu-link sub-menu-link">HR Software Solutions</a></li>
+</ul></div>
+</li>
+<li id="nav-menu-item-558" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-66 "><a href="https://www.goodtechguide.com/data-analytics/" class="menu-link main-menu-link">Data &#038; Analytics</a></li>
+<li id="nav-menu-item-562" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-category-65 "><a href="https://www.goodtechguide.com/experts/" class="menu-link main-menu-link">Tech Experts</a></li>
+<li id="nav-menu-item-852" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children "><a href="https://www.goodtechguide.com/about/" class="menu-link main-menu-link">About</a>
+<div class="dropnav-container"><ul class="dropnav-menu">
+	<li id="nav-menu-item-851" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.goodtechguide.com/privacy-policy/" class="menu-link sub-menu-link">Privacy &#038; Cookies</a></li>
+	<li id="nav-menu-item-555" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.goodtechguide.com/contact-us/" class="menu-link sub-menu-link">Contact Us</a></li>
+</ul></div>
+</li>
+<li class="search-nav"><a id="search-nav-button" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-search"></span></a>
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <form role="search" method="get" class="form-inline" action="https://www.goodtechguide.com/">
+                                        <button class="btn"><span class="glyphicon glyphicon-search"></span></button>
+                                        <div class="form-group">
+                                            <input id="nav-search" type="text" name="s"  value="" >
+                                        </div>
+
+                                    </form>
+                                </div>
+                            </li></ul>                    </nav>
+                    <!-- end:menu -->
+
+                </div>
+                <!-- end:container -->
+            </div>
+            <!-- end:header-navigation -->
+
+        </div>
+    </div>
+    <!-- end:sticky-header -->
+
+    
+</header>
+<!-- end:page-header -->
+
+            <!-- end:page header mobile -->
+
+            <!-- start:ad-side-banner -->
+            <div class="container relative">
+    <div id="side-banners">
+    </div>
+</div>
+            <!-- end:ad-side-banner -->
+
+<!-- start:ad-top-banner -->
+<!-- end:ad-top-banner -->
+
+<!-- start:post-info-bar -->
+<!-- end:post-info-bar -->
+
+<!-- start:container -->
+<div class="container">
+    <!-- start:page content -->
+    <div id="page-content" class="right-sidebar loop-page-5">
+
+        
+        <!-- start:tbl-row -->
+        <div class="tbl-row">
+
+        
+        <!-- start:main -->
+        <div id="main" class="article">
+
+            <!-- start:article-post -->
+            <article id="post-977" class="article-post cat-85 loop-page-5 clearfix post-977 post type-post status-publish format-standard has-post-thumbnail hentry category-greentech" itemscope itemtype="http://schema.org/Article">
+
+                    
+    
+<!-- start:reading-area -->
+<div class="article-post-reading-area">
+<header>
+    <div class="breadcrumb hidden-xs">
+<span></span><div class="vbreadcrumb" typeof="v:Breadcrumb"><a href="https://www.goodtechguide.com/" rel="v:url" property="v:title" class="home">Home</a></div><div class="vbreadcrumb" typeof="v:Breadcrumb"><a href="https://www.goodtechguide.com/greentech/" title="Greentech" rel="v:url" property="v:title">Greentech</a></div></div>
+    <h1 itemprop="mainEntityOfPage">What is Green Technology in 2022? The Greentech, Climate Tech &#038; Cleantech Guide</h1>
+        <p class="post-meta clearfix">
+                
+        <span class="fa-categories"><a href="https://www.goodtechguide.com/greentech/" title="View all posts in Greentech">Greentech</a></span>        <span class="fa-bookmark eta" rel="Reading Time"></span>                    </p>
+        </header>
+
+
+<div class="article-post-content"><p>Green technology in 2022 is the intersection of much new terminology and a wide range of innovative solutions around energy production, pollution reduction, and climate change reversal. Here we offer a Complete Guide to Greentech &#8211; new environmental technology including Climate Tech, Cleantech and everything in between.</p>
+<p><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png"><img class="aligncenter size-full wp-image-978" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png" alt="Greentech guide - climate tech and cleantech" width="800" height="533" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png 800w, https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology-300x200.png 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology-768x512.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>Consumer awareness of human impact on the planet is on the rise, with it green technology is growing, adapting and developing. Following on from last year&#8217;s COP26 event in Glasgow, 2022 is set to be a year of extensive greentech growth and development after numerous government committments. This is in addition to the many recent documentaries, television programmes by David Attenborough, protests from Extinction Rebellion and multiple speeches by Greta Thunberg, which have placed the issues of climate change and the environment in front of the consumer.</p>
+<p>Joe Biden has taken office as President of the United States and has made many public statements that his term will see the US pursue a strong green agenda.</p>
+<p>Everything from fashion to energy consumption will be impacted by government there and worldwide, and personal goals to tackle the pressing threat of environmental problems. Therefore, being aware of key terms and developments will keep you ahead of the trends as we embrace a greener lifestyle.</p>
+<p>To stay ahead of recent trends and developments, we will be taking an in-depth look at green technology in 2022. This article outlines what green technology is, some key terms and their definitions, developments in greentech, types of technologies being developed, and leading companies within each type.</p>
+<p>&nbsp;</p>
+<h2>What is greentech?</h2>
+<p>Greentech is often split into two areas that are referred to as <strong>climate tech</strong> and <strong>cleantech</strong>. Between them, their technologies look to deal with existing and future damage to the environment caused by humans, as well as reducing or eliminating sources of further damage from our energy production and pollution.</p>
+<p>Although there is current speculation around the use of these terms and whether there are better alternatives out there, we will be referring to each technology as a section within these two areas.</p>
+<p><a href="https://cleanenergyventures.com/clean-energy-venture-capital/climatetech-is-cleantech-in-need-of-a-rebrand/">Clean Energy Ventures</a> defines climate tech as “expressly concerned with the mitigation of greenhouse gas emissions” and cleantech as focusing on humanity’s impact on the environment.</p>
+<p>Climate tech has a focus on greenhouse gas emissions so therefore includes sectors such as carbon capture and afforestation. The focus of these sectors is to reduce the severity of greenhouse gas emissions, either through trapping the already existing gases or considering how greenhouse gases can be reduced moving forward.</p>
+<p>We can define this area by considering whether the sector considers its impact on the planet beyond greenhouse gas emissions, if there is little consideration or this has been considered but the impact on greenhouse gas emissions is greater then the main goal of the company or project sits within climate tech.</p>
+<p>Cleantech looks at cleaning humanity’s impact from the environment. This includes areas like pollution and air quality as well as recycling and waste management.</p>
+<p>These sectors don’t necessarily consider the impact of this work on emissions but know that the work will impact and reduce humanity’s impact on the wider environment. For example, recycling and waste management may require vehicles or machines that emit greenhouse gases but the impact on human waste seeping into oceans or waterways is reduced, therefore its focus is cleantech.</p>
+<p>&nbsp;</p>
+<h2>Greentech in 2022</h2>
+<p>Within the two areas of climate tech and clean tech, we find a whole host of sectors that focus on certain aspects of business and society that make up the landscape of greentech in 2022. Some of these sectors solely occupy climate tech or cleantech, others overlap and look at both areas in order to create change in society.</p>
+<p>For example, clean energy is concerned with mitigating greenhouse gas emissions while also reducing human impact on the environment through the extraction of resources to be used for creating energy.</p>
+<p>Though the terms are sometimes used interchangeably, they do not mean the same thing. The two areas share similar ideas but the overall goals they are working towards are different. Some companies and sectors may overlap in their actions and ideas but returning to the main goal of their actions is the best way to understand what area they belong within. Placing green technologies within the two areas allows us a better understanding of the goals driving those technologies and the key focus of companies who work within that sector, defining every action they take in order to ensure effectiveness and efficiency.</p>
+<p>Below you’ll find a useful diagram from Clean Energy Ventures that outlines many of the green technology sectors that are explored throughout this article, and highlights the intersection and difference between cleantech and climate tech:</p>
+<p>&nbsp;</p>
+<div id="attachment_981" style="width: 780px" class="wp-caption aligncenter"><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/cleantech-vs-climate-tech.png"><img aria-describedby="caption-attachment-981" loading="lazy" class="size-large wp-image-981" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/cleantech-vs-climate-tech-1024x751.png" alt="Cleantech vs Climate Tech" width="770" height="565" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/cleantech-vs-climate-tech-1024x751.png 1024w, https://www.goodtechguide.com/wp-content/uploads/2021/03/cleantech-vs-climate-tech-300x220.png 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/cleantech-vs-climate-tech-768x564.png 768w, https://www.goodtechguide.com/wp-content/uploads/2021/03/cleantech-vs-climate-tech.png 1536w" sizes="(max-width: 770px) 100vw, 770px" /></a><p id="caption-attachment-981" class="wp-caption-text">Cleantech vs Climate Tech Diagram by Clean Energy Ventures</p></div>
+<p>&nbsp;</p>
+<h2>What is climate tech?</h2>
+<p>Climate tech is green technology that focuses on the reduction and mitigation of the effect of greenhouse gas emissions. This includes both reducing the greenhouse gases currently being produced, capturing or removing the greenhouse gases that are currently in our atmosphere and reducing the greenhouse gases that will be emitted in the future.</p>
+<p>&nbsp;</p>
+<h3>Carbon Capture</h3>
+<p>Carbon dioxide is the main gas contributing to global heating, therefore the thinking behind carbon capture involves catching the carbon at the source of it being created and then piping it to a place where it can be stored or used. It can be used as the carbon dioxide for things like carbonating drinks but can also be used to create hydrogen which can be used in factories as a clean-burning fuel. According to the IEA, carbon capture could reduce global carbon dioxide emissions by 70% (<a href="https://www.theguardian.com/environment/2020/sep/24/what-is-carbon-capture-usage-and-storage-and-can-it-trap-emissions">The Guardian</a>, 2020).</p>
+<p>Carbon capture allows manufacturers to avoid expense in adapting to run on clean energy and the technology already exists in order to get carbon capture projects up and running. It also opens up new business opportunities in creating hydrogen which could then be sold on as fuel.</p>
+<p>&nbsp;</p>
+<p>Developments around new environmental technology in 2022 include efforts by the UK <a href="https://www.nationalgrid.com/group/cutting-carbon-emissions">National Grid</a> who have already set up a large carbon capture project in the Yorkshire and Humber region, and are now looking to continue developing on this work with their partners Drax and Equinor. The project could see the Humber become the world’s first net zero carbon region. For this project, the carbon is taken from industrial factories in this region and piped into storage in the North Sea.</p>
+<p>The “storage” is a porous rock under the seabed which is injected with liquid carbon dioxide. Alongside this project, Phillips 66, Uniper and Vitol have proposed the <a href="https://www.vitol.com/phillips-66-uniper-and-vitols-vpi-immingham-enter-mou-to-develop-decarbonisation-project-humber-zero/">Humber Zero decarbonisation project</a>, placing the UK as global leaders of carbon capture technology alongside Scandinavia and the United States.</p>
+<p>&nbsp;</p>
+<p>Finally, a <a href="https://news.un.org/en/story/2021/03/1086312">UN report</a> has recently called for an increase in the use of carbon capture in order to drastically combat climate change, identifying key barriers to the development of this technology. The future looks promising for carbon capture, especially for UK businesses who may benefit from world-first net zero manufacturing.</p>
+<p>&nbsp;</p>
+<h3>Afforestation</h3>
+<p>Afforestation is the creation or establishment of a forest where there was previously no tree cover. This action aids carbon capture but the trees also reduce carbon dioxide levels and add more oxygen into the atmosphere, helping to reduce greenhouse gas emissions.</p>
+<p>A number of government and non-government organisations partake in planting trees to offset their carbon emissions, including government goals to achieve within a set time as part of the action to tackle climate change. There is also scope to use other technologies within afforestation plans to speed up the process and some businesses build tree-planting into their product as a benefit to the eco-conscious consumer.</p>
+<p><a href="https://symbiosis.com.br/en/">Symbiosis Investimentos</a> is a Brazilian privately owned investment company that transforms degraded areas into established forests by restoring native species, working within the timber industry to improve quality of wood and quality of the planet.</p>
+<p>&nbsp;</p>
+<h3>Agtech</h3>
+<p>Agtech is short for agricultural technology and includes a whole range of companies that support the agriculture industry to become greener. From smart robots that gather data from crops to reducing livestock manure through LIvestock Water Recycling (LWR), this sector encompasses a range of innovative technological developments to improve efficiency of agriculture and mitigate greenhouse gases.</p>
+<p>As outlined by <a href="https://www2.deloitte.com/content/dam/Deloitte/de/Documents/consumer-industrial-products/Deloitte-Tranformation-from-Agriculture-to-AgTech-2016.pdf">Deloitte</a> (2016), agriculture businesses are having to be more open to innovation and change in order to keep up with the changes in the market. Their report also predicts that start-ups and innovators will seek to disrupt the industry through the introduction of new technology.</p>
+<p><a href="https://futuregrowing.wordpress.com/">Future Growing LLC</a> is an industry-leader in Agtech through the development of the aeroponic growing process which removes the need for soil when growing herb crops and places these crops in vertical towers, instead of into long rows in the ground.</p>
+<p>&nbsp;</p>
+<h3>Geoengineering</h3>
+<p>Commonly referred to as climate engineering, geo engineering is a large-scale intervention in the climate system of the Earth. Within this sector, there are a number of subcategories such as solar radiation management and carbon dioxide removal. Climate engineering looks predominantly to environmental modelling to present solutions to current problems placing much of the work in this area as theoretical and difficult to action in the short-term.</p>
+<p>Projects can be expensive and risky but given the current climate emergency, could provide a breakthrough to complement the work of other sectors.</p>
+<p><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/climeworks.jpg"><img loading="lazy" class="aligncenter size-full wp-image-975" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/climeworks.jpg" alt="Climeworks climate tech - carbon capture and CO2 removal" width="800" height="533" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/climeworks.jpg 800w, https://www.goodtechguide.com/wp-content/uploads/2021/03/climeworks-300x200.jpg 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/climeworks-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>The <a href="https://climeworks.com/">Climeworks</a>’ direct air capture technology allows the company to suck carbon dioxide straight from the air with a similar route for the carbon dioxide as carbon capture, storing it below ground. This is an expensive process and will not be enough to solve climate change alone.</p>
+<p>Alongside this work, there is a solar geoengineering <a href="https://www.sciencemag.org/news/2020/12/geoengineers-inch-closer-sun-dimming-balloon-test">research project run by Harvard University</a> (Voosen, 2020) that hopes to use particles in the atmosphere to block the sun’s rays and therefore prevent the warming of the Earth.</p>
+<p>The project has made progress using models and theories and is now looking to release a balloon into the atmosphere, release chalky particles and then monitor what happens.</p>
+<p>Climeworks is one of the companies profiled on the <a href="https://elevategreen.org/">Elevate Green</a> website, which looks at products, services and projects that will help to reduce the environmental impact of industry, protect nature, or actively reverse the negative impacts we have already had on our environment and the global climate.</p>
+<p>&nbsp;</p>
+<h2>What is cleantech?</h2>
+<p>Cleantech is green technology that increases the performance, productivity or efficiency of production while reducing the impact on the environment. The technology may focus on the impact on a particular environmental element, such as water or air, that would normally be subjected to chemicals or pollutants as part of the production process. Some of these technologies might impact or influence your day-to-day life without you even realising.</p>
+<p>&nbsp;</p>
+<h3>Clean Water</h3>
+<p>Water is essential for human life yet universal access to clean water is not available. Innovative technologies for clean water allow communities across the world to thrive and grow, promoting the growth of families, businesses and education in places where this wasn’t possible before. On top of this, as the global population grows and industries use more and more water for manufacturing, having enough clean water for everyone is a rising concern.</p>
+<p>Supporting businesses to clean and re-use water creates a cycle where new water does not need to enter the process, allowing that water to be used elsewhere in the community.</p>
+<p><a href="https://innovativeh2o.com/">Innovative Water Technologies</a> developed water filtration systems that were portable, solar and wind powered and reliable, providing 20,000 litres of clean water every day for 10 years or more. The <a href="https://eu.lifestraw.com/">Lifestraw</a> is another portable technology that filters water as you drink, providing much-needed water access during emergencies where clean water might not be readily available.</p>
+<p>&nbsp;</p>
+<h3>Recycling and Waste</h3>
+<p>What we do with our waste matters. Whether it is household waste or manufacturing waste, for a long time we were just dumping waste into the ground or the ocean and we have now realised that eventually, the space will run out.</p>
+<p>On top of that, the waste will poison our sources and make growing food or finding clean water more difficult. Recycling programmes have been rolled out globally, with governments changing their approaches to waste and changing behaviours of entire nations in the process.</p>
+<p>Most recently, plastic recycling has come to the forefront of this sector. Plastics are hard to recycle due to them being mixed with other things in the production process and therefore becoming hard to separate and take back to its original form.</p>
+<p><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/pure-cycle-technologies.jpg"><img loading="lazy" class="aligncenter size-full wp-image-976" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/pure-cycle-technologies.jpg" alt="Purecycle recycling technologies" width="800" height="533" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/pure-cycle-technologies.jpg 800w, https://www.goodtechguide.com/wp-content/uploads/2021/03/pure-cycle-technologies-300x200.jpg 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/pure-cycle-technologies-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>Unlike something like glass which can simply be melted down and reformed several times over its lifetime. <a href="https://purecycletech.com/">PureCycle</a> aims to reduce plastic waste through research and development of the recycling process to create pure recycled polypropylene that can be used in an endless loop.</p>
+<p>&nbsp;</p>
+<h3>Air quality and Pollution</h3>
+<p>Air quality impacts health. It’s as simple as that. Poor air quality will impact people living and working in that area, causing the development of new and underlying illnesses and making existing illnesses worse.</p>
+<p>On top of people, air quality impacts the growth of wildlife and nature, impacting the ability of trees to photosynthesise and respire and therefore affecting the homes and lives of wildlife.</p>
+<p>The <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/770715/clean-air-strategy-2019.pdf">UK government</a> has researched into air pollution and its impacts on people, creating a specific website to <a href="https://uk-air.defra.gov.uk/">track air pollution</a> across the UK. The use of data to create real time images and forecast future pollution is a way to support those whose health may be impacted in times of peak air pollution, choosing to avoid certain times and areas for being outside.</p>
+<p>On top of this, the UK now has years of data tracking air quality and pollution across the entire country, which can be drawn upon to create technological developments that can help to find a resolution.</p>
+<p>&nbsp;</p>
+<h2>Cleantech and Climate tech</h2>
+<p>Where cleantech and climate tech overlap, we find sectors that permeate every aspect of society and our existence. Everything from moving goods around the world to the careful choice of energy providers by businesses and consumers.</p>
+<p>From a business perspective, these sectors are at the forefront of the green technology impact on how a business looks to grow and develop in the future. These sectors also provide interesting approaches and insights on how consumers and businesses can impact the environment through small changes in behaviours and choices.</p>
+<p>&nbsp;</p>
+<h3>Clean Energy</h3>
+<p>Clean energy is probably the most well-known environmental industry, from wind farms to solar panels. Clean energy is technology that creates energy from renewable, zero emission sources. These are probably the most familiar technologies to us out of all green technologies.</p>
+<p>Many companies in this sector are thriving through businesses and consumers demanding access to green energy, supported by the emergence of a number of challenger energy providers who can offer green energy at a competitive rate and have enjoyed rapid growth.</p>
+<p>One of the most recent developments in clean energy is <a href="https://www.saipem.com/en/blog/new-frontiers-renewables-floating-solar">floating solar panels</a> which removes the use of soil while still allowing the capture of energy from the sun. This is a promising growth trend for this sector and has been widely tested in Japan, China and Southeast Asia, countries which will need this adaptation in order to cope with their lack of accessible land. Water-based panels also improve the performance of panels as the water and winds cool the cells.</p>
+<p>The use of renewable hydrogen opens up a new opportunity for businesses, set to grow to a size similar to the oil and gas industry with much lower rates of emissions, there is a lot of potential here that has been grasped by industry experts.</p>
+<p><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/air-liquide.jpg"><img loading="lazy" class="aligncenter size-full wp-image-973" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/air-liquide.jpg" alt="Air Liquide - sustainable business solutions" width="800" height="533" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/air-liquide.jpg 800w, https://www.goodtechguide.com/wp-content/uploads/2021/03/air-liquide-300x200.jpg 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/air-liquide-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>Over 10 countries are currently competing to be world leaders, and <a href="https://www.airliquide.com/">Air Liquide</a> is one company who has recently announced plans to <a href="https://www.greentechmedia.com/articles/read/10-countries-moving-towards-a-green-hydrogen-economy">introduce 200 hydrogen filling stations across the US by 2025</a>.</p>
+<p>With so much clean energy already present in our lives, this sector presents many promising opportunities for development, whether that be in wind, turbo, geothermal, solar or somewhere else. The technology is accessible with lots of work already completed which allows new innovators room to adapt, develop and grow the already-existing technology.</p>
+<p>&nbsp;</p>
+<h3>Built Environment</h3>
+<p>When referring to built environment, we mean buildings and human structures. The adoption of green technology in construction helps to increase the efficiency of the building in staying warm or cool, using water effectively and ensuring that your building materials have a low impact on the environment.</p>
+<p>From simple things such as green insulation made from recycled materials to electrochromic smart class that electrically charges windows to change the amount of solar radiation they reflect, the choices range wildly between simple solution and ultra-technological design.</p>
+<p><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/biotecture.jpg"><img loading="lazy" class="aligncenter size-full wp-image-974" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/biotecture.jpg" alt="Biotecture - green technology company" width="800" height="533" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/biotecture.jpg 800w, https://www.goodtechguide.com/wp-content/uploads/2021/03/biotecture-300x200.jpg 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/biotecture-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p><a href="https://www.biotecture.uk.com/">Biotecture</a> is a company that designs and builds living walls made from plants for community and work spaces, reconnecting people with nature in their everyday spaces. The company can create both interior and exterior living walls that provide a calming feel to any space.</p>
+<p>They have created work for Centrica, Heathrow Airport, Smeg stores and other spaces, making a stand-out impact on visitors and workers who regularly use these spaces. By introducing plants, the interior air quality is improved and the actions taking place within the space improve too.</p>
+<p>&nbsp;</p>
+<h3>Transportation</h3>
+<p>Transport encompasses public and personal transport as well as the transportation of goods around the world. In the clean tech sector, the main discussion is currently around the use of cars, electric cars and charging stations for electric cars.</p>
+<p>Governments are placing bans on the creation of new petrol and diesel cars to accelerate the industry’s development and the public’s uptake of electric vehicles, making developments in this area crucial to car manufacturers and the success of electric vehicles with the public.</p>
+<p><a href="https://www.goodtechguide.com/wp-content/uploads/2021/03/afc-energy.jpg"><img loading="lazy" class="aligncenter size-full wp-image-972" src="https://www.goodtechguide.com/wp-content/uploads/2021/03/afc-energy.jpg" alt="Hydrogen power company - AFC Energy" width="800" height="533" srcset="https://www.goodtechguide.com/wp-content/uploads/2021/03/afc-energy.jpg 800w, https://www.goodtechguide.com/wp-content/uploads/2021/03/afc-energy-300x200.jpg 300w, https://www.goodtechguide.com/wp-content/uploads/2021/03/afc-energy-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p><a href="https://www.afcenergy.com/">AFC energy</a> recently unveiled a new hydrogen-powered rapid charger to support the introduction of electric vehicles and improve options of charging vehicles efficiently. The charger, called CH2ARGE, sees compressed hydrogen delivered to on-site units that use the gas to generate electricity, stored in a 40kW battery which can then be used to rapidly charge an electric vehicle.</p>
+<p>&nbsp;</p>
+<h3>Supply Chain</h3>
+<p>Environmentally friendly practices can be implemented at almost every stage of the supply chain. From packaging options to transporting goods, companies can choose green solutions to help decrease the environmental impact of their business and products. These options are becoming more popular due to being cost-effective and planet-friendly.</p>
+<p>Examples of green technology in the supply chain may be ethical sourcing, closed-loop manufacturing and reducing fuel emissions. Consumers are becoming more invested in the impact their purchase may have on the planet so will carefully research a company’s supply chain before considering buying.</p>
+<p>Greenpeace have created a report which documents the progress made by industries and companies globally &#8211; <a href="https://www.greenpeace.org/international/publication/17612/destination-zero/">Destination Zero</a>. The report also highlights barriers and makes suggestions for how these could be overcome in the future, challenging the global market to do better and strive for further progress.</p>
+<p>With relation to drinks, <a href="https://www.goodthingsbrewing.co/sustainability">Good Things Brewing Company</a>, based in Sussex, UK, has recently unveiled a closed-loop brewery and implements several green options within their supply chain, such as using cans instead of bottles as they are lighter to transport and using a fleet of electric vehicles to deliver their products.</p>
+<p>The closed-loop brewery means they keep their sources within the loop of their brewery, treating waste on site and using the water elsewhere in the business as well as creating their own energy through photovoltaic panels.</p>
+<p>&nbsp;</p>
+<h2>The future of green technology</h2>
+<p>As the market of green technology grows there are new opportunities for businesses and governments to fund prospective projects and ideas that may grow into a world-saving technology. As climate change and environmental issues have been carefully portrayed as societal, governmental and individual issues, the general public are looking for ways to support and promote products and practices that are friendly to the planet.</p>
+<p>Investing is becoming a popular way to save and grow money towards financial goals and through the development of investing platforms and the prominence and access of finance education on social media platforms, more people are considering investing their money in order to make it grow.</p>
+<p>With this readily available information and climate issues at the forefront of society, green investing (or ESG investing) is gaining traction with investors around the world. The coronavirus pandemic has intensified discussions about the interconnectedness of finances and green technology, resulting in key trends in climate change and social unrest emerging as areas important to investors.</p>
+<p>&nbsp;</p>
+<h2>What is ESG Investing?</h2>
+<p>ESG stands for Environmental, Social and Governance. These are non-financial factors that can be selected when you choose to invest your money. These factors are not mandatory but companies are increasingly disclosing information linked to their sustainability.</p>
+<p>There is also demand from investors for these factors which is, in turn, influencing companies to disclose and ensure they look good to secure investors’ wealth.</p>
+<p>It is key to know that there are no ESG standards that companies have to follow, therefore there is not one list for comparing. ESG factors link and can be hard to classify in one area and the factors can often be measured but sometimes do not have a monetary value.</p>
+<p>ESG investing is similar to Socially Responsible Investing (SRI) but they are not the same. SRI has a process of screening with a specific set of criteria whereas ESG looks for a broader sense of value.</p>
+<p>&nbsp;</p>
+<h2>In Summary</h2>
+<p>Cleantech and climate tech are amazing areas of technology and innovation, offering up opportunities to support businesses, agriculture, health and future generations.</p>
+<p>Green technology has seen real ebbs and flows in public interest and government support, but in 2022 it looks like green technology is only going to rise and rise through government targets to reduce the climate’s temperature growth and through the empowerment of individuals looking to invest their money where it will make an environmental and social impact to support generations to come.</p>
+<p>&nbsp;</p>
+<h3>References</h3>
+<p>Ambrose, Gillian. What is carbon capture, usage and storage &#8211; and can it trap emissions? The Guardian. Published: 24 September 2020. <a href="https://www.theguardian.com/environment/2020/sep/24/what-is-carbon-capture-usage-and-storage-and-can-it-trap-emissions">https://www.theguardian.com/environment/2020/sep/24/what-is-carbon-capture-usage-and-storage-and-can-it-trap-emissions</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Anon. Phillips 66, Uniper and Vitol’s VPI Immingham enter MOU to develop decarbonisation project, Humber Zero. Vitol.com. Published: 19 May 2020. <a href="https://www.vitol.com/phillips-66-uniper-and-vitols-vpi-immingham-enter-mou-to-develop-decarbonisation-project-humber-zero/">https://www.vitol.com/phillips-66-uniper-and-vitols-vpi-immingham-enter-mou-to-develop-decarbonisation-project-humber-zero/</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Anon. UN report calls for scaling-up carbon capture, use and storage. UN News. Published: 3 March 2021. <a href="https://news.un.org/en/story/2021/03/1086312">https://news.un.org/en/story/2021/03/1086312</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Deign, Jason. 10 countries moving toward a green hydrogen economy. Green Tech Media. Published: 14 October 2019. <a href="https://www.greentechmedia.com/articles/read/10-countries-moving-towards-a-green-hydrogen-economy">https://www.greentechmedia.com/articles/read/10-countries-moving-towards-a-green-hydrogen-economy</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Deloitte. From Agriculture to Agtech report. Published: 2016. <a href="https://www2.deloitte.com/content/dam/Deloitte/de/Documents/consumer-industrial-products/Deloitte-Tranformation-from-Agriculture-to-AgTech-2016.pdf">https://www2.deloitte.com/content/dam/Deloitte/de/Documents/consumer-industrial-products/Deloitte-Tranformation-from-Agriculture-to-AgTech-2016.pdf</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Dillon, Ted. Climate tech vs. cleantech: what’s the difference? Clean Energy Ventures. Published: 20 January 2021. <a href="https://cleanenergyventures.com/clean-energy-venture-capital/climatetech-is-cleantech-in-need-of-a-rebrand/">https://cleanenergyventures.com/clean-energy-venture-capital/climatetech-is-cleantech-in-need-of-a-rebrand/</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Greenpeace International. Destination Zero. Greenpeace. Published: 12 July 2018. <a href="https://www.greenpeace.org/international/publication/17612/destination-zero/">https://www.greenpeace.org/international/publication/17612/destination-zero/</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>National Grid. Cutting Carbon Emissions. National Grid website. <a href="https://www.nationalgrid.com/group/cutting-carbon-emissions">https://www.nationalgrid.com/group/cutting-carbon-emissions</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Saipem. The New Frontiers of Renewables: Floating Solar. Saipem.com. Published: 17 July 2020. <a href="https://www.saipem.com/en/blog/new-frontiers-renewables-floating-solar">https://www.saipem.com/en/blog/new-frontiers-renewables-floating-solar</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Stone, Stuart. Good Things Brewing Co unveils £750,000 closed loop brewery. The Morning Advertiser. Published: 13 February 2020. <a href="https://www.morningadvertiser.co.uk/Article/2020/02/13/Good-Things-Brewing-Co-turns-over-a-new-leaf-with-750-000-closed-loop-brewery">https://www.morningadvertiser.co.uk/Article/2020/02/13/Good-Things-Brewing-Co-turns-over-a-new-leaf-with-750-000-closed-loop-brewery</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>UK Air website. <a href="https://uk-air.defra.gov.uk/">https://uk-air.defra.gov.uk/</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>UK Government. Clean Air Strategy. Gov.uk. Published: 2019. <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/770715/clean-air-strategy-2019.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/770715/clean-air-strategy-2019.pdf</a> (Accessed: March 2021)</p>
+<p>&nbsp;</p>
+<p>Voosen, Paul. Geoengineers inch closer to sun-dimming balloon test. Science Mag. Published: 15 December 2020. <a href="https://www.sciencemag.org/news/2020/12/geoengineers-inch-closer-sun-dimming-balloon-test">https://www.sciencemag.org/news/2020/12/geoengineers-inch-closer-sun-dimming-balloon-test</a> (Accessed: March 2021)</p>
+</div></div>
+<!-- end:reading-area -->
+
+
+
+<!-- start:article footer -->
+<footer>
+
+    <div class="soc-media-sharing default">
+            <a class="btn-social btn-facebook btn-icon-title" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.goodtechguide.com%2Fwhat-is-green-technology%2F" onclick="window.open(this.href, 'weeklywin', 'left=50,top=50,width=600,height=360,toolbar=0'); return false;"><i class="fa fa-facebook-square fa-lg"></i><span id="smFacebook">Facebook</span></a>
+        <a class="btn-social btn-twitter btn-icon-title" href="https://twitter.com/intent/tweet?text=What is Green Technology in 2022? The Greentech, Climate Tech &#038; Cleantech Guide&amp;url=https%3A%2F%2Fwww.goodtechguide.com%2Fwhat-is-green-technology%2F" onclick="window.open(this.href, 'weeklywin', 'left=50,top=50,width=600,height=360,toolbar=0'); return false;"><i class="fa fa-twitter-square fa-lg"></i><span id="smTwitter">Twitter</span></a>
+        <a class="btn-social btn-google btn-icon-title" href="http://plus.google.com/share?url=https://www.goodtechguide.com/what-is-green-technology/" onclick="window.open(this.href, 'weeklywin', 'left=50,top=50,width=600,height=360,toolbar=0'); return false;"><i class="fa fa-google-plus-square fa-lg"></i><span id="smGoogle">Google+</span></a>
+        <a class="btn-social btn-linkedin btn-icon-title" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.goodtechguide.com%2Fwhat-is-green-technology%2F&amp;title=What is Green Technology in 2022? The Greentech, Climate Tech &#038; Cleantech Guide" onclick="window.open(this.href, 'weeklywin', 'left=50,top=50,width=600,height=360,toolbar=0'); return false;"><i class="fa fa-linkedin-square fa-lg"></i><span id="smLinkedin">LinkedIn</span></a>
+        <a class="btn-social btn-pinterest btn-icon-title" href="http://pinterest.com/pin/create/button/?url=https://www.goodtechguide.com/what-is-green-technology/&amp;media=https://www.goodtechguide.com/wp-content/uploads/2021/03/green-technology.png"  onclick="window.open(this.href, 'weeklywin', 'left=50,top=50,width=600,height=360,toolbar=0'); return false;"><i class="fa fa-pinterest-square fa-lg"></i><span>Pinterest</span></a>
+    </div>
+
+        <aside class="post-navigation clearfix">
+        <div class="row">
+                <div class="col-md-6 text-right">
+                <cite>Next article</cite>
+                <a href="https://www.goodtechguide.com/contractor-management-software/" title="Contractor Management Software">Contractor Management Software</a>
+            </div>
+                    <div class="col-md-6">
+                <cite>Previous article</cite>
+                <a href="https://www.goodtechguide.com/brain-science-learning-advice/" title="Whole Brain Science and Learning - Expert Advice for Education &amp; Training">Whole Brain Science and Learning - Expert Advice for Education & Training</a>
+            </div>
+            </div>
+    </aside>
+    
+    </footer>
+<!-- end:article footer -->
+<meta itemprop="author" content="Manager">
+<meta itemprop="datePublished" content="2022-01-30T10:02:55+00:00">
+<meta itemprop="dateModified" content="2022-01-30T11:08:20+00:00">
+<meta itemprop="headline" content="What is Green Technology in 2022? The Greentech, Climate Tech &#038; Cleantech Guide">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="https://www.goodtechguide.com/wp-content/uploads/2018/08/good-tech-guide-logo-sm.png">
+      <meta itemprop="width" content="">
+      <meta itemprop="height" content="">
+    </div>
+    <meta itemprop="name" content="Good Tech Guide">
+</div>
+
+
+                
+<!-- start:related-posts -->
+<section class="news-lay-3 bottom-margin">
+
+    <header>
+        <h2>Related Posts</h2>
+        <span class="borderline"></span>
+    </header>
+
+<!-- start:row --><div class="row"><div class="col-xs-6 col-sm-4"><!-- start:article -->
+                        <article class="thumb thumb-lay-two cat-2 parent-cat-2 prim-cat-59">
+                            <div class="thumb-wrap relative">
+                                <a href="https://www.goodtechguide.com/green-web-hosting-companies/"><img itemprop="image" src="https://www.goodtechguide.com/wp-content/uploads/2018/11/green-web-hosting-237x143.jpg" width="237" height="143" alt="Green Web Hosting Companies - the Top, Genuinely Eco-Friendly Website Hosts" class="img-responsive" /></a>
+                                <a href="https://www.goodtechguide.com/green/" class="theme">Green</a>
+                            </div>
+                            <span class="published" itemprop="dateCreated">November 11th, 2021</span>
+                            <h3><a href="https://www.goodtechguide.com/green-web-hosting-companies/">Green Web Hosting Companies - the Top, Genuinely Eco-Friendly Website Hosts</a></h3>
+                            <span class="text"></span>
+                        </article>
+                        <!-- end:article --></div></div><!-- end:row -->
+</section>
+<!-- end:related-posts -->
+
+
+<!-- start:article-comments -->
+<section id="comments">
+
+    
+</section>
+<!-- end:article-comments -->
+
+<!-- start:article-comments-form -->
+<section id="article-comments-form">
+
+	
+</section>
+<!-- end:article-comments-form -->
+
+
+
+
+
+            </article>
+            <!-- end:article-post -->
+
+        </div>
+        <!-- end:main -->
+
+        <!-- start:sidebar -->
+<div id="sidebar" class="sidebar">
+    <div class="theiaStickySidebar">
+  	                <aside class="widget module-timeline">                <header><div class="header-title">Popular Posts</div><span class="borderline"></span></header>                <!-- start:articles -->
+                <div class="articles">
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">Jan 30th</span>
+                        <span class="published-time">10:02 AM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-85 bullet-85"></i><span class="category parent-cat-85 cat-85"><a href="https://www.goodtechguide.com/greentech/">Greentech</a></span>                            <h3><a href="https://www.goodtechguide.com/what-is-green-technology/">What is Green Technology in 2022? The Greentech, Climate Tech &#038; Cleantech Guide</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">May 22nd</span>
+                        <span class="published-time">2:48 PM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-60 bullet-60"></i><span class="category parent-cat-60 cat-60"><a href="https://www.goodtechguide.com/cloud-computing/">Cloud Computing</a></span>                            <h3><a href="https://www.goodtechguide.com/divvycloud-cloud-management-platform/">Cloud Service Management Software &#8211; DivvyCloud CMP</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">Jan 7th</span>
+                        <span class="published-time">3:28 PM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-57 bullet-57"></i><span class="category parent-cat-57 cat-57"><a href="https://www.goodtechguide.com/software/">Software</a></span>                            <h3><a href="https://www.goodtechguide.com/hr-software-solutions/">HR Software Solutions</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">Nov 11th</span>
+                        <span class="published-time">6:22 PM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-59 bullet-59"></i><span class="category parent-cat-59 cat-59"><a href="https://www.goodtechguide.com/green/">Green</a></span>                            <h3><a href="https://www.goodtechguide.com/green-web-hosting-companies/">Green Web Hosting Companies &#8211; the Top, Genuinely Eco-Friendly Website Hosts</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">Sep 30th</span>
+                        <span class="published-time">8:00 PM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-62 bullet-62"></i><span class="category parent-cat-62 cat-62"><a href="https://www.goodtechguide.com/ai/">AI</a></span>                            <h3><a href="https://www.goodtechguide.com/c3-iot/">C3 IoT Platforms &#8211; AI for Data Analytics</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">Jan 7th</span>
+                        <span class="published-time">3:12 PM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-77 bullet-77"></i><span class="category parent-cat-77 cat-77"><a href="https://www.goodtechguide.com/finance/">Finance</a></span>                            <h3><a href="https://www.goodtechguide.com/top-uk-fintech-companies/">Top UK Fintech Companies</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                
+                    <!-- start:article -->
+                    <article>
+                        <span class="published">Apr 25th</span>
+                        <span class="published-time">5:53 PM</span>
+                        <div class="cnt">
+
+                            <i class="bullet parent-bullet-2 bullet-2"></i><span class="category parent-cat-2 cat-2"><a href="https://www.goodtechguide.com/business/">Business</a></span>                            <h3><a href="https://www.goodtechguide.com/rfid-tracking-systems-uk/">RFID Tracking Systems &#8211; Real Time Location</a></h3>
+                        </div>
+                    </article>
+                    <!-- end:article -->
+                                </div>
+                <!-- end:article-container -->
+                </aside>
+        </div>
+</div>
+<!-- end:sidebar -->
+
+        </div>
+        <!-- end:tbl-row -->
+
+    </div>
+    <!-- end:page content -->
+</div>
+<!-- end:container -->
+
+
+            <!-- section:page footer -->
+            <section id="page-footer">
+
+                <!-- start:container -->
+                <div class="container">
+
+                    <!-- start:foot-menu -->
+                    <nav id="foot-menu" class="hidden-xs">
+                    <ul id="menu-trimmed-menu-2" class="nav clearfix"><li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-554"><a href="https://www.goodtechguide.com/">Home</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-563"><a href="#">Hot Topics</a></li>
+<li id="menu-item-556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-556 menu-category-2"><a href="https://www.goodtechguide.com/business/">Business</a></li>
+<li id="menu-item-557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-557 menu-category-57"><a href="https://www.goodtechguide.com/software/">Software</a></li>
+<li id="menu-item-558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558 menu-category-66"><a href="https://www.goodtechguide.com/data-analytics/">Data &#038; Analytics</a></li>
+<li id="menu-item-562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-562 menu-category-65"><a href="https://www.goodtechguide.com/experts/">Tech Experts</a></li>
+<li id="menu-item-852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-852"><a href="https://www.goodtechguide.com/about/">About</a></li>
+<li class="options"><a href="#" class="scrollToTop">Back to top <span class="glyphicon glyphicon-chevron-up"></span></a></li></ul>                    </nav>
+                    <!-- end:foot-menu -->
+
+                    
+                    <!-- start:row -->
+                    <div class="copyright row">
+                        <!-- start:col -->
+                        <div class="col-sm-6">
+                            © Good Tech Guide 2022. All rights reserved.                        </div>
+                        <!-- end:col -->
+                        <!-- start:col -->
+                        <div class="col-sm-6 text-right">
+                                                    </div>
+                        <!-- end:col -->
+                    </div>
+                    <!-- end:row -->
+
+                    
+                </div>
+                <!-- end:container -->
+
+            </section>
+            <!-- end:page footer -->
+
+        </div>
+        <!-- end:page inner wrap -->
+    </div>
+    <!-- end:page outer wrap -->
+
+    <!-- start:wp_footer -->
+    <script>
+        "use strict";
+        var miptheme_smooth_scrolling       = true;
+        var miptheme_ajaxpagination_timer   = 1000;
+
+        var mipthemeLocalCache = {};
+        ( function () {
+            "use strict";
+            mipthemeLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete mipthemeLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return mipthemeLocalCache.data.hasOwnProperty(resource_id) && mipthemeLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return mipthemeLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    mipthemeLocalCache.remove(resource_id);
+                    mipthemeLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+    </script>
+    <script type='text/javascript' src='https://www.goodtechguide.com/wp-content/plugins/category-to-pages-wud/js/cat-to-page.js' id='cattopage_wud_script-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/plugins/category-to-pages-wud/js/jquery.ctp_wud_min.js' id='cattopage_wud_cat_img_script-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.goodtechguide.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.1' id='contact-form-7-js'></script>
+<script type='text/javascript' id='qppr_frontend_scripts-js-extra'>
+/* <![CDATA[ */
+var qpprFrontData = {"linkData":{"https:\/\/www.goodtechguide.com\/?p=1":[1,1,"http:\/\/www.learninglight.com"],"https:\/\/www.goodtechguide.com\/?p=672":[1,1,"https:\/\/www.snap.com\/en-US\/"],"https:\/\/www.goodtechguide.com\/nvidia-gpu-cloud-deep-learning\/":[1,1,"https:\/\/www.nvidia.co.uk\/gpu-cloud\/deep-learning-containers\/"]},"siteURL":"https:\/\/www.goodtechguide.com","siteURLq":"https:\/\/www.goodtechguide.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.2.3' id='qppr_frontend_scripts-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/js/SocialMediaStats.js?ver=3.4.2' id='miptheme-social-stats-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/js/bootstrap.min.js?ver=3.4.2' id='miptheme-bootstrap-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/js/mip.external.js?ver=3.4.2' id='miptheme-external-js'></script>
+<script type='text/javascript' id='miptheme-functions-js-extra'>
+/* <![CDATA[ */
+var miptheme_ajax_url = {"ajaxurl":"https:\/\/www.goodtechguide.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/themes/weeklynews/assets/js/functions.js?ver=3.4.2' id='miptheme-functions-js'></script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-includes/js/comment-reply.min.js?ver=6.0.1' id='comment-reply-js'></script>
+<script type='text/javascript' id='fifu-image-js-js-extra'>
+/* <![CDATA[ */
+var fifuImageVars = {"fifu_lazy":"","fifu_woo_lbox_enabled":"1","fifu_woo_zoom":"inline","fifu_is_product":"","fifu_is_flatsome_active":"","fifu_rest_url":"https:\/\/www.goodtechguide.com\/wp-json\/","fifu_nonce":"3a1ac6dca5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.goodtechguide.com/wp-content/plugins/featured-image-from-url/includes/html/js/image.js?ver=4.0.6' id='fifu-image-js-js'></script>
+<script></script>
+<!-- JS generated by theme -->
+
+<script>
+    jQuery().ready(function jQuery_ready() {
+                                            miptheme_ajax_post_views.get_post_views("[977]");
+                                        });
+</script>
+
+    <script>
+        "use strict";
+        jQuery().ready(function($) {
+            // Sticky sidebar
+            $('#sidebar').theiaStickySidebar({ 'additionalMarginTop': 75 });
+        });
+    </script>
+        <!-- end:wp_footer -->
+
+</body>
+</html>

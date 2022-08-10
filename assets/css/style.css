@@ -20,14 +20,16 @@ body {
 }
 
 .header {
+    background-position: 80%;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(../codingwall.jpg);
+    background-size: cover;
+    background-image: url(../coding.jpg);
     padding: 10px;
     align-items: center;
     background-size: cover;
     background-attachment: fixed;
-    background-position: 80%;
+    background-position: 70%;
 }
 
 span {
@@ -36,6 +38,7 @@ span {
     border-radius: 8px;
     padding: 5px 5px 5px 50px;
     margin-left: 0px;
+    border: 2px groove var(--text-color);
 }
 
 .header h1 {
@@ -44,6 +47,7 @@ span {
     text-size-adjust: 50px;
     color: var(--text-color);
     flex-basis: 25%;
+    text-shadow: 1px 1px 2px black;
 }
 
 
@@ -59,24 +63,25 @@ span {
     font-size: 22px;
     color: whitesmoke;
     text-decoration: none;
-    border-bottom: 3px solid var(--hover-color); 
+    border-bottom: 3px solid whitesmoke; 
 }
 
 .header ul li a:hover {
     background-color: var(--hover-color);
     color: var(--text-color);
     border-radius: 4px;
+    border-bottom: none;
     padding: 3px;
 }
 
 .hero {
-    background-image: url(../codingwall.jpg);
-    background-size: cover;
-    height: 400px;
+    background-image: url(../coding.jpg);
+    background-size: inherit;
+    height: 500px;
     background-position: center;
     display: flex;
     background-attachment: fixed;
-    background-position: 80%;
+    background-position: 70%;
     justify-content: end;
     padding: 300px 10px 0px 0px;
 }
@@ -101,6 +106,8 @@ span {
     flex-wrap: wrap;
     justify-content: center;
     font-size: 300%;
+    text-align: right;
+    text-shadow: 1px 1px 2px black;
 
 }
 
@@ -121,11 +128,11 @@ span {
 }
 
 .work h1 {
-    padding-right: 10px;
-    padding-left: 20px;
-    padding-top: 30px;
+    padding: 30px;
     width: 200px;
     font-size: 300%;
+    text-align: right;
+    text-shadow: 1px 1px 2px black;
 }
 
 .card {
@@ -136,6 +143,27 @@ span {
     border-left: 5px solid #0D5B09;
 }
 
+.surf, .led-wallpaper, .calculator, .puzzel, .run-buddy {
+    position: relative;
+}
+
+.card-text {
+    position:absolute;
+    left: 5%;
+    top: 50%;
+    transform: translate(-10%, -50%);
+    color: var(--text-color);
+    text-align: left;
+    border-radius: 4px;
+    padding-left: 20px;
+    font-style: italic;
+    text-shadow: 1px 1px 2px black;
+    margin-left: 0;
+    border: 3px inset var(--text-color);
+    padding: 5px;
+    background: var(--hover-color);
+}
+
 
 .card a {
     text-decoration: none;
@@ -143,15 +171,6 @@ span {
     text-align: center;
 }
 
-
-.img-text {
-    position: relative;
-    bottom: 120px;
-    left: 170px;
-    color: white;  
-    font-style: italic;
-    text-shadow: 2px 2px 4px #000000;
-}
 
 
 .card img {
@@ -199,6 +218,7 @@ footer {
 
 .contact-me h1 {
     padding: 8px;
+    text-shadow: 1px 1px 2px black;
 }
 
 .contact-me a {
@@ -217,6 +237,11 @@ footer {
 @media screen and (max-width: 1300px) {
     .card img {
         width: 600px;
+    }
+
+    .hero {
+       justify-content: center;
+       align-items: center; 
     }
 }
 
@@ -237,9 +262,10 @@ footer {
 
     .nav {
         margin-top: 10px;
-        padding: 0px 0px 0px 10px;
+        text-align: center;
         display: flex;
         justify-content: space-evenly;
+        padding: 5px;
     }
 
     .align {
@@ -305,7 +331,7 @@ footer {
     }
 
     .hero {
-        background-position: 80%;
+        background-position: 50%;
         background-size: cover;
     }
 
@@ -313,9 +339,19 @@ footer {
 
   
   /* MEDIA QUERY FOR TABLETS AND SMALLER */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 750px) {
+    .hero {
+
+    }
+    
     .card img {
         width: 100%
+    }
+    .card-text {
+        position:absolute;
+        bottom: 2%;
+        left: 30%;
+        height: 60px;
     }
   }
   /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
